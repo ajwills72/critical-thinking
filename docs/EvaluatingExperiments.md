@@ -248,7 +248,9 @@ think they expect me to like coke more as a result. I wouldn't want to
 disappoint them so sure, let's give it a higher rating than I did last
 time".
 
-## Experimenter Effects - Therapy example
+## Experimenter Effects
+
+### Therapy example
 
 We considered an experiment that compared meditation-based therapy
 with relaxation training, and looked at effects on the BDI. The effect
@@ -278,8 +280,7 @@ and more studies are performed. The first studies are typically
 performed by those with a strong belief in the effectiveness of the
 treatment, the later studies by researchers who are more agnostic.
 
-
-## Experimenter Effects --- Data analysis
+### Data analysis
 
 Another form of experimenter effect is bias in data analysis. This is
 perhaps most acute when the dependent measure is subjective. For
@@ -307,7 +308,7 @@ the >3 second exclusion. Am I sure that decision was unaffected by
 the fact it's the only decision that results in a conclusion
 favourable to my theory?
 
-## Blind testing
+### Blind testing
 
 There's a relatively straight forward answer to experimenter-effect
 problems in data analysis --- blind testing. When analyzing data, make
