@@ -2,6 +2,7 @@
 ## Critical Thinking
 
 1. Science, truth, and honesty [slides](ScienceTruthHonesty.pdf), [notes](ScienceTruthHonestyNotes.html).
+
 ____
 
 #### Source code
