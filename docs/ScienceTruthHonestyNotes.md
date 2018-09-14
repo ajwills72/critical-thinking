@@ -1,8 +1,6 @@
 # Science, truth, and honesty 
 _Andy Wils_
 
-## Topics
-
 This lecture series starts by considering two fundamental questions
 ---  'what is truth?' and 'what is science?'. We start with the
 nature of truth.
