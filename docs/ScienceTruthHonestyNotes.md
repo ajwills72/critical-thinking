@@ -181,14 +181,14 @@ Such a claim is technically scientific, but the truth being claimed is
 so contextual that it is not possible to, for example, make any
 further predictions.
 
-\section{Scientific claims and truth}
+## Scientific claims and truth
 
 Scientific claims are objective, descriptive, and relatively context
 independent. They also have a number of other properties.First, some
 scientific claims are true and others are false. A claim that is false
 can still be scientific if it meets the other criteria.
 
-\section{Observable, measurable states}
+## Observable, measurable states
 
 Second, scientific claims are based on observable, measurable
 states. Making sure your claim is descriptive rather than prescriptive
@@ -318,7 +318,8 @@ which are often not open to the public.
 The solution is Open Access publishing. This means making your
 publications freely available at no charge. There are a number of ways
 to achieve this. For example, every scientific paper I have ever
-written is available for free download at \url{www.willslab.org.uk}.
+written is available for free download from [my website](www.willslab.org.uk).
+
 
 ## Science and Open Access raw data
 
