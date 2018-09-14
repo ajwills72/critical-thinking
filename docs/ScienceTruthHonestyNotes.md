@@ -74,7 +74,7 @@ relative'. This seems undeniably true, as we discussed under the
 issue of subjective claims. It still leaves us with the question -
 what does it mean to say an objective claim is true?
 
-# Truth, correspondence, and coherence
+## Truth, correspondence, and coherence
 
 The answer is really quite prosaic. Truth can be defined both in terms
 of correspondence and coherence. Anyone who has ever watched a crime
