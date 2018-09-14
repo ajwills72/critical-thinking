@@ -336,5 +336,5 @@ exists.
 ---
 
 This work is licensed under a Creative Commons Attribution-ShareAlike
-4.0 International Licence. Last update: \today
+4.0 International Licence. 
 
