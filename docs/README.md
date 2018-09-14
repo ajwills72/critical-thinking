@@ -1,7 +1,9 @@
 
 ## Critical Thinking
 
-1. Science, truth, and honesty [slides](ScienceTruthHonesty.pdf), [notes](ScienceTruthHonestyNotes.html).
+1. Science, truth, and honesty: [slides](ScienceTruthHonesty.pdf), [notes](ScienceTruthHonestyNotes.html).
+
+2. Evaluating experiments: [slides](EvaluatingExperiments.pdf), [notes](EvaluatingExperiments.html).
 
 ____
 
