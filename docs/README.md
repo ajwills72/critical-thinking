@@ -1,9 +1,17 @@
 
 ## Critical Thinking
 
-1. Science, truth, and honesty: [slides](ScienceTruthHonesty.pdf), [notes](ScienceTruthHonestyNotes.html).
+A series of four two-hour lectures on the basics of thinking
+critically, applied to the study of psychology as a science.
 
-2. Evaluating experiments: [slides](EvaluatingExperiments.pdf), [notes](EvaluatingExperiments.html).
+1. Science, truth, and honesty: [slides](ScienceTruthHonesty.pdf),
+   [notes](ScienceTruthHonestyNotes.html).
+
+2. Evaluating experiments: [slides](EvaluatingExperiments.pdf),
+   [notes](EvaluatingExperiments.html).
+
+3. Evaluating arguments: [slides](EvaluatingArguments.pdf),
+   [notes](EvaluatingArguments.html).
 
 ____
 
@@ -17,7 +25,8 @@ ___
 
 #### Licence
 
-This material is distributed under a [Creative Commons](https://creativecommons.org/) licence. CC-BY-SA 4.0. 
+This material is distributed under a [Creative
+Commons](https://creativecommons.org/) licence. CC-BY-SA 4.0.
 
 ____
 
