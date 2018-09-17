@@ -13,6 +13,9 @@ critically, applied to the study of psychology as a science.
 - Evaluating arguments: [slides](EvaluatingArguments.pdf),
    [notes](EvaluatingArguments.html).
 
+- Evaluating risk: [slides](EvaluatingRisk.pdf),
+   [notes](EvaluatingRisk.html).
+
 ____
 
 #### Source code
