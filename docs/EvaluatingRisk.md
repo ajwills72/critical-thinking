@@ -63,9 +63,9 @@ accidents involving a motor vehicle are the cause of death for about
 0.2% of people [read
 more](http://en.wikipedia.org/wiki/List_of_preventable_causes_of_death).
 This gives us an odds ratio of 18/0.2 = 90 --- smoking is 90 times
-more likely to kill you than driving a car (much more than that,
+more likely to kill you than a motor vehicle (much more than that,
 actually, because these figures are from the USA, where only a
-minority smoke, but most adults drive regularly.
+minority smoke, but most adults drive regularly).
 
 A common response to this kind of calculation is:
 
@@ -79,7 +79,7 @@ you play Russian Roulette once, the probability you die is 1/6 =
 0.17. Of course, _after_ you have played, you are either dead, or you
 aren't. But now imagine playing _inverse_ Russian roulette (five
 bullets) once. Your probability of death in this case is 5/6 =
-0.83. After, _after_ you have played, you are either dead or not
+0.83. _After_ you have played, you are either dead or not
 dead. If you had to choose between the games, which would you pick?
 
 The odds ratio here is .83/.17 = 5.
@@ -89,46 +89,33 @@ The odds ratio here is .83/.17 = 5.
 Probability (by the simplest objective definition) is that property
 which allows us to calculate the frequency of an event in a very long
 run of events. For example, if you flip a fair coin 1000 times, you
-get close to 500 heads. The more times you flip the more
-heads/flips tends towards 0.5.
-
-OK, let's start with the basics. Probability is surprisingly hard to
-define, but the simplest satisfactory definition is that it allows us
-to calculate the frequency of an event in a very long run of events.
-
-So, for example, if I have a fair coin, it can land Heads or Tails,
-and the probability of each of those events is 0.5. We write this
-P(heads) = 0.5, P(tails) = 0.5.  If I flip my coin 1,000 times, I
-would expect to get close to 500 heads. Mathematically: 1000*P(heads)
-= 1000*0.5 = 500. The more times I flip my coin, the closer the match
-between the probability and the frequency.
-
-So, probability of an event is represented P(event) = ..., and the
-number is always between zero and one. In class, we went through a few
-examples to illustrate these ideas.
+get close to 500 heads. The more times you flip the more heads divided
+by flips tends towards 0.5.In class, we went through a few examples to
+illustrate these ideas.
 
 ### The Monty Hall problem
 
 The Monty Hall problem is a classic demonstration of how easy it is to
 get probability calculations wrong (professional mathematicians often
 get this problem wrong!). The Monty Hall problem concerns a real game
-show. You're given the choice of three doors: Behind one door is a
-car; behind the others, goats. You want to win the car. You pick a
-door, say No. 1, and the host, who knows what's behind the doors,
-opens another door, say No. 3, which has a goat. He then says to you,
-"Do you want to pick door No. 2?". Is it to your advantage to switch
-your choice?
+show. In this game show (hosted by Monty Hall), you're given the
+choice of three doors. Behind one door is a car; behind the others,
+goats. You want to win the car. You pick a door, say No. 1, and the
+host, who knows what's behind the doors, opens another door, say
+No. 3, which has a goat. He then says to you, "Do you want to switch
+to door No. 2, or stick with door No. 1?". 
 
-Most people say it doesn't matter whether you switch or not, but they
-are wrong. The thing that people often miss is that the host is never
-going to open the door with the car behind it (because then the game
-would be trivially easy to win). 
+Is it to your advantage to switch your choice? Most people say it
+doesn't matter whether you switch or not, but they are wrong. The
+thing that people often miss is that the host is never going to open
+the door with the car behind it (because then the game would be
+trivially easy to win).
 
 Armed with this piece of information, notice that on two-thirds of the
-occasions, you will have opened a door with a goat behind it (because
-2/3rds of doors have a goat behind it). The host then is forced to
-open the door with the other goat behind it. So, the car is behind the
-unopened door. If you switch, you will win the car. 
+occasions, you will have first picked a door with a goat behind it
+(because 2/3rds of doors have a goat behind them). The host then is
+forced to open the door with the other goat behind it. So, the car is
+behind the unopened door. If you switch, you will win the car.
 
 Of course, on one-third of occasions, your first choice of door will
 have the car behind it. If you switch, you will not win the car. So,
@@ -140,17 +127,15 @@ switch. So, you should always switch.
 Statistical indepdence is one of the most frequently misunderstood
 concepts in critical thinking, and getting it wrong can have tragic
 consequences, as we'll see later. First, we need to define the term
-_conditional probability_. In the examples above, we were estimating
-_uncondiional_ probabilities. A _conditional_ probability is the
-probability of some event, given that some other event is known to
-have occurred. 
+_conditional probability_. 
 
-For example, the conditional probability your fair coin lands 'heads',
-given you got heads last time is 0.5. Similarly, the conditional
-probability it lands 'heads', given you got tails last time, is also
-0.5. So, the throws of a coin are _statistically independent_ of each
-other --- knowing the outcome of one event does not help us predict
-the next. 
+A _conditional_ probability is the probability of some event, given
+that some other event is known to have occurred. For example, the
+conditional probability your fair coin lands 'heads', given you got
+heads last time is 0.5. Similarly, the conditional probability it
+lands 'heads', given you got tails last time, is also 0.5. So, the
+throws of a coin are _statistically independent_ of each other ---
+knowing the outcome of one event does not help us predict the next.
 
 Coin flips, roulette wheels, and so on, are demonstrably
 independent. Despite already knowing this, most people make a bunch of
@@ -238,8 +223,8 @@ teller).
 
 ### Sally Clark
 
-Sally Clark was a real person, and their tragic case is a classic
-example of experts getting the conunction rule wrong. Sally Clark was
+Sally Clark was a real person, and her tragic case is a classic
+example of an 'expert' getting the conunction rule wrong. Sally Clark was
 a 31 year-old solicitor. Her first child died at 11 weeks. One year later, her
 second child died at 8 weeks. There was little to no forensic
 evidence, and no evidence she had been a violent or uncaring parent. 
@@ -261,11 +246,11 @@ Meadows argued:
     chances are even lower; 1 in 8500, p = .0001.
 
 3.   Throughh the _conjunction rule_, the probability of two cot
-     deaths in the same family is .0001 x .0001 = 1 x 10^{-8} = 1 in
-     73 million, or less than once a century in the UK.
+     deaths in the same family is .0001 x .0001 = 1 x 10<sup>-8</sup>
+     = 1 in 73 million, or less than once a century in the UK.
 	 
-4.   The idea that these deaths were by natural causes can be ruled
-     out beyond _reasonable doubt_.
+4.   Therefore, the idea that these deaths were by natural causes can
+     be ruled out beyond _reasonable doubt_.
 	 
  Prof. Meadow's error was assuming that two cot deaths in the same
  family were independent events. This is extremely unlikely (shared
@@ -274,7 +259,7 @@ Meadows argued:
 ### Shared birthdays
 
 A happier example of errors concerning probability judgements is the
-_Shared Birthdays_ problem. The question is: "In a class of 30
+_shared birthdays_ problem. The question is: "In a class of 30
 children, what's the probability that there is a shared birthday in
 the class?". You can assume birthdays are independent events, and that
 every date of birth is equally likely. 
@@ -289,9 +274,9 @@ underestimate how many pairs of people there are in a group of
 people. As you were taught in high school, the number of pairs in a
 group is n(n-1)/2, where _n_ is the size of the group. So, in a group
 of 5 people, there are 10 pairs. However, this number goes up very
-quickly. In a group of 10 people, there are 45 pairs. In a group od
-20, 190 pairs. In a class of 30 children, there are 435 pairs of
-children!
+quickly. In a group of 10 people, there are 45 pairs. In a group of
+20, there are 190 pairs. In a class of 30 children, there are 435
+pairs of children!
 
 Applying this to our birthday example, there are of course 365 days in
 the year (let's ignore Feb 29th). So, the chance of any one pair of
@@ -303,6 +288,6 @@ The only way there can be no shared birthdays in the class is if no
 pair of children share a birthday. We already saw (above) that there
 are 435 pairs of children in a class of 30. So, under the _conjunction
 rule_ the probability of **none** of them sharing a birthday is
-.997^{435} = .17. So, the probability of at least one shared birthday
-is 1 - .17 = .83. So, it's much more likely there is a shared birthday
-than there isn't. 
+.997^<sup>435</sup> = .17. So, the probability of at least one shared
+birthday is 1 - .17 = .83. So, it's much more likely there is a shared
+birthday than there isn't.

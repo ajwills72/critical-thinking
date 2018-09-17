@@ -1,19 +1,22 @@
 
 ## Critical Thinking
 
-A set of four two-hour lectures on the basics of thinking
+A set of lectures and workshops on the basics of thinking
 critically, applied to the study of psychology as a science. 
 
-- Science, truth, and honesty: [slides](ScienceTruthHonesty.pdf),
+- Science, truth, and honesty (_lecture, 2 hours_):
+   [slides](ScienceTruthHonesty.pdf),
    [notes](ScienceTruthHonestyNotes.html).
 
-- Evaluating experiments: [slides](EvaluatingExperiments.pdf),
+- Evaluating experiments (_lecture, 2 hours_):
+   [slides](EvaluatingExperiments.pdf),
    [notes](EvaluatingExperiments.html).
 
-- Evaluating arguments: [slides](EvaluatingArguments.pdf),
+- Evaluating arguments (_lecture, 2 hours_):
+   [slides](EvaluatingArguments.pdf),
    [notes](EvaluatingArguments.html).
 
-- Evaluating risk: [slides](EvaluatingRisk.pdf),
+- Evaluating risk (_lecture, 2 hours_): [slides](EvaluatingRisk.pdf),
    [notes](EvaluatingRisk.html).
 
 ____
