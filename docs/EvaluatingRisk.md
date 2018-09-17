@@ -246,7 +246,7 @@ Meadows argued:
     chances are even lower; 1 in 8500, p = .0001.
 
 3.   Throughh the _conjunction rule_, the probability of two cot
-     deaths in the same family is .0001 x .0001 = 1 x 10<sup>-8</sup>
+     deaths in the same family is .0001 x .0001 = 1 x 10^-8^
      = 1 in 73 million, or less than once a century in the UK.
 	 
 4.   Therefore, the idea that these deaths were by natural causes can
@@ -288,6 +288,6 @@ The only way there can be no shared birthdays in the class is if no
 pair of children share a birthday. We already saw (above) that there
 are 435 pairs of children in a class of 30. So, under the _conjunction
 rule_ the probability of **none** of them sharing a birthday is
-.997^<sup>435</sup> = .17. So, the probability of at least one shared
+.997^435^ = .17. So, the probability of at least one shared
 birthday is 1 - .17 = .83. So, it's much more likely there is a shared
 birthday than there isn't.
