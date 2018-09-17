@@ -1,16 +1,16 @@
 
 ## Critical Thinking
 
-A series of four two-hour lectures on the basics of thinking
-critically, applied to the study of psychology as a science.
+A set of four two-hour lectures on the basics of thinking
+critically, applied to the study of psychology as a science. 
 
-1. Science, truth, and honesty: [slides](ScienceTruthHonesty.pdf),
+- Science, truth, and honesty: [slides](ScienceTruthHonesty.pdf),
    [notes](ScienceTruthHonestyNotes.html).
 
-2. Evaluating experiments: [slides](EvaluatingExperiments.pdf),
+- Evaluating experiments: [slides](EvaluatingExperiments.pdf),
    [notes](EvaluatingExperiments.html).
 
-3. Evaluating arguments: [slides](EvaluatingArguments.pdf),
+- Evaluating arguments: [slides](EvaluatingArguments.pdf),
    [notes](EvaluatingArguments.html).
 
 ____
