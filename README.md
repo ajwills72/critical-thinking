@@ -1,6 +1,5 @@
 ## Welcome to the Critical Thinking lecture series. 
 
-
 This is the website we use to develop these teaching materials. If you
 were looking for the actual materials, [click
 here](https://ajwills72.github.io/critical-thinking/)

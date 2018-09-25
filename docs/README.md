@@ -12,6 +12,10 @@ critically, applied to the study of psychology as a science.
    [slides](EvaluatingExperiments.pdf),
    [notes](EvaluatingExperiments.html).
 
+- Distributions and samples (_workshop, 1 hour_):
+   [slides](distributions-samples.pdf),
+   [instructor notes](distributions-samples.html)
+
 - Evaluating arguments (_lecture, 2 hours_):
    [slides](EvaluatingArguments.pdf),
    [notes](EvaluatingArguments.html).
