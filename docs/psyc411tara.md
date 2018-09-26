@@ -20,13 +20,13 @@ _PSYC411: Workshops 7, 8, 9_
    [instructor notes](regress-corr.html)
 
 - Group differences in R (_1 hour_): 
-   [slides](https://ajwills72.github.io/rminr/group-differences.html)
+   [worksheet](https://ajwills72.github.io/rminr/group-differences.html)
 
 ## Workshop 9
 
 - Evidence in R (_1 hour_):
-  [slides](https://ajwills72.github.io/rminr/evidence.html)
+  [worksheet](https://ajwills72.github.io/rminr/evidence.html)
   
 - Analyzing their own data in R (_1 hour_):
-  [slides](https://ajwills72.github.io/rminr/using-projects.html)
+  [worksheet](https://ajwills72.github.io/rminr/using-projects.html)
   
