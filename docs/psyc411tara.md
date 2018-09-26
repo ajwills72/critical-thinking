@@ -11,6 +11,9 @@ _PSYC411: Workshops 7, 8, 9_
    [worksheet 1](https://ajwills72.github.io/rminr/intro-rstudio.html),
    [worksheet 2](https://ajwills72.github.io/rminr/exploring-incomes.html)
    
+Students view worksheet 2 through
+[PsycEL](https://www.psy.plymouth.ac.uk/PsycEL/Login?ExpID=110).
+   
 ## Workshop 8
 
 - Regression to the mean, and illsusory correlation (_1 hour_):
