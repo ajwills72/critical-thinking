@@ -1,0 +1,8 @@
+order,points,freq,praise,critic
+1,0 pts (near),4,2. worse,1. same
+2,10 pts (near),5,2. worse,2. better
+3,20 pts (near),7,2. worse,2. better
+4,100 pts,10,1. same,2. better
+5,20 pts (far),7,2. worse,2. better
+6,10 pts (far),5,2. worse,2. better
+7,0 pts (far),4,2. worse,1. same

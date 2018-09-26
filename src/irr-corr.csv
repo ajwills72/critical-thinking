@@ -1,0 +1,40 @@
+behaviour,valence,group,index
+refused to assist an old person who was lost.,neg,A,1
+failed to return a borrowed item.,neg,A,2
+trespassed on private property.,neg,A,3
+lost their temper and hit their neighbour.,neg,A,4
+jumped a queue.,neg,A,5
+dented a parked car and didn’t leave their contact details.,neg,A,6
+made another person feel very uncomfortable.,neg,A,7
+threw the Monopoly board across the room when they lost.,neg,A,8
+always talks about himself and his problems.,neg,B,1
+teased a cat.,neg,B,2
+stole a packet of crisps.,neg,B,3
+dropped litter.,neg,B,4
+helped friends to move house.,pos,A,1
+helped an elderly lady cross the road.,pos,A,2
+gave good advice to a friend in trouble.,pos,A,3
+volunteers for a local charity.,pos,A,4
+returns something they have borrowed.,pos,A,5
+accepted a business loss rather than compromise their ideals.,pos,A,6
+helped a neighbour clear snow from their drive.,pos,A,7
+considers the environmental impact of their purchases.,pos,A,8
+normally meets their friends on time.,pos,A,9
+visits an elderly relative in a nursing home.,pos,A,10
+sends flowers to their mother.,pos,A,11
+helps out in a community group.,pos,A,12
+gave money to charity.,pos,A,13
+comforts a colleague who is upset.,pos,A,14
+helps keep a shared kitchen tidy.,pos,A,15
+picks up a piece of litter someone else has dropped.,pos,A,16
+occasionally works overtime for no pay in order to do a good job.,pos,A,17
+keeps themselves informed about current events.,pos,A,18
+is rarely late for work.,pos,B,1
+visits a friend in hospital.,pos,B,2
+sent a nice email to a friend.,pos,B,3
+is an advisor to a youth group.,pos,B,4
+exercises regularly.,pos,B,5
+helped their co-workers solve a problem.,pos,B,6
+tactfully excused themselves from an uncomfortable conversation.,pos,B,7
+lent friends a garden tool.,pos,B,8
+helped an elderly man with his shopping.,pos,B,9

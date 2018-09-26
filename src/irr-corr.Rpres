@@ -1,0 +1,300 @@
+Groups and behaviours 
+=====================
+author: Andy Wills
+date: 2018
+autosize: true
+
+```{r, echo=FALSE}
+library(readr)
+state <- read_csv("irr-corr.csv")
+rn <- sample(1:39, 39, replace = FALSE)
+```
+
+Instructions
+===
+Shortly, you'll be shown some statements about members of Group A and Group B. In each statement, a member of one of these groups will either be doing something socially desirable (e.g. "helping friends to move house"),  or something sociall undesirable (e.g. "jumping a queue").
+
+Please read each of the following statements in turn, click the right arrow once you have read the statement in order to receive the next one.
+
+**You will later be asked some questions about these statements, so please ensure you have read each one carefully.**
+
+===
+```{r, echo=FALSE}
+i <- 1
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 2
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 3
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 4
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 5
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 6
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 7
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 8
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 9
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 10
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 11
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 12
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 13
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 14
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 15
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 16
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 17
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 18
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 19
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 20
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 21
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 22
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 23
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 24
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 25
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 26
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 27
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 28
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 29
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 30
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 31
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 32
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 33
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 34
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 35
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 36
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 37
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 38
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+===
+```{r, echo=FALSE}
+i <- 39
+st <- paste("A member of Group", state$group[rn[i]], state$behaviour[rn[i]])
+cat(st)
+```
+
+Complete the questionnaire
+===
+Now please fill in the questionnaire provided.
+
+**Do not look back over these slides**. Instead, rely on your memory.
+
+
