@@ -17,9 +17,9 @@ critically, applied to the study of psychology as a science.
    [instructor notes](distributions-samples.html)
 
 - Regression to the mean, and illsusory correlation (_workshop, 1 hour_):
-   [slides](regress-corr.pdf)
-   [shove ha'penny game](http://www.psy.plymouth.ac.uk/labplus/lp411ShoveHapenny/default.html)
-   [group behaviour statements](irr-corr.html)
+   [slides](regress-corr.pdf), 
+   [shove ha'penny game](http://www.psy.plymouth.ac.uk/labplus/lp411ShoveHapenny/default.html), 
+   [group behaviour statements](irr-corr.html), 
    [instructor notes](regress-corr.html)
 
 - Evaluating arguments (_lecture, 2 hours_):
