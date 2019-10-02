@@ -7,7 +7,7 @@ Link 301
 ## When?
 
 Complicated. There are 9 people supporting these 3 workshops, but only
-4 people at any given time. See this [list](staffing.csv) for when I
+5 people at any given time. See this [list](staffing.csv) for when I
 am expecting to see you in Link 301.
 
 ## What?
