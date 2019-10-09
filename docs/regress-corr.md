@@ -89,7 +89,7 @@ the table of desirable/undesirable behaviours versus group membership,
 and points out the desirable/undesirable ratio is the same for the two
 groups, but that one group is smaller. Makes some connections to
 e.g. real-world prejudice but mainly emphasises the ubiquity of the
-effect and the importance of produce these kind of contingency tables
+effect and the importance of producing these kind of contingency tables
 and looking at ratios (This will set up chi-square-like comparisons
 for future modules). 
 
