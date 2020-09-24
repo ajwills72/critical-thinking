@@ -1,7 +1,7 @@
 Groups and behaviours 
 =====================
 author: Andy Wills
-date: 2018
+date: 
 autosize: true
 
 ```{r, echo=FALSE}
@@ -12,7 +12,7 @@ rn <- sample(1:39, 39, replace = FALSE)
 
 Instructions
 ===
-Shortly, you'll be shown some statements about members of Group A and Group B. In each statement, a member of one of these groups will either be doing something socially desirable (e.g. "helping friends to move house"),  or something sociall undesirable (e.g. "jumping a queue").
+Shortly, you'll be shown some statements about members of Group A and Group B. In each statement, a member of one of these groups will either be doing something socially desirable (e.g. "helping friends to move house"),  or something socially undesirable (e.g. "jumping a queue").
 
 Please read each of the following statements in turn, click the right arrow once you have read the statement in order to receive the next one.
 

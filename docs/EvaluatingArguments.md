@@ -1,13 +1,13 @@
 # Evaluating arguments
 _Andy J. Wills_
 
-This lecture contained four sections, each aimed at improving your
+This lecture contained three sections, each aimed at improving your
 ability to evaluate arguments --- both your own, and other
-people's. In the first two sections of the lecture, I considered a
-common bias in argumentation. This is a  biases that people often do
+people's. In the first section of the lecture, I considered a
+common bias in argumentation. This is a bias that people often do
 not realise they have, but which reliably occurs unless they
 deliberately takes steps to avoid it. I give advice on
-how to avoid this bias in your own thinking. In the third part of
+how to avoid this bias in your own thinking. In the second part of
 the lecture, I considered weak arguments --- how to identify them and
 hence avoid being taken in by them. In the final part, I demonstrated
 a systematic method for evaluating arguments.
@@ -21,21 +21,21 @@ circumstances. Thus, for example, non-drinkers are more likely than
 drinkers to think that drinking at university leads to alcoholism
 later in life. This is called _my-side bias_.
 
-The next slide summarizes another study of my-side bias, this time in
+The next slide summarises another study of my-side bias, this time in
 the interpretation of news reports concerning the Lebanon War in
 1982. Pro-Israeli students considered the reports to be anti-Israel,
 but pro-Arab students considered the reports to be pro-Israel. So, in
 this case, both sides considered the reports to be biased towards the
 opposing side in the conflict. This is another example of my-side bias
---- the assessment of evidence is affected by what you already
+- the assessment of evidence is affected by what you already
 believe.
 
-The next few slides summarize a study by Perkins et al. (1991). The
+The next few slides summarise a study by Perkins et al. (1991). The
 study illustrates that my-side bias is not reduced by age, experience,
 or education. However, it is reduced if participants receive a prompt
 to look for arguments on both sides (scaffolding).
 
-The final slide of this section summarizes what you can do to avoid
+The final slide of this section summarises what you can do to avoid
 my-side bias. Basically, scaffold yourself!
 
 
@@ -50,14 +50,14 @@ of weak arguments! They are very powerful, as they can often be used
 to win arguments without having to go to the bother of considering the
 evidence.
 
-Across several slides, I summarize some of the more common weak
-arguments. The examples on the slides are intended to be light-hearted
+Across several slides, I summarise some of the more common weak
+arguments. The examples on the slides are intended to be light hearted
 and clear, but the point is serious. Listen to media reports, read
 scientific papers, and try to identify these kinds of weak
 arguments. Here are some further examples:
 
 - "Many migrants are from Syria, and some Syrians are terrorists,
-  so some migrants are terrorists". This is a non-seqitur.
+  so some migrants are terrorists". This is a non-sequitur.
 
 - "Global warming is a good thing --- it's always so bloody cold
   around here!". This is equivocation - it makes use of the everyday
@@ -90,7 +90,7 @@ throughout your course.
 
 ### Infallible Flowchart
 
-I call the method the Infalliable Flowchart because it always
+I call the method the Infallible Flowchart because it always
 works. When reading a paper (or textbook) have this flowchart beside
 you and go through its steps for each key claim.
 
@@ -118,7 +118,7 @@ logical deduction? A logical deduction is where the conclusion
 necessarily follows, given the truth of the premise(s). Logical
 deduction is quite rare. Often, an inference is being made. An
 inference is a conclusion that is likely to be true given the truth of
-the premises, but not inevtiably so.
+the premises, but not inevitably so.
 
 Finally, you ask whether the premises are true. Even if the
 conclusion logically follows from the premises, it is not a valid
@@ -197,18 +197,17 @@ who test positive never developing AIDS".
 
 ### Fox hunting example
 
-We also considered an argument about fox hunting. Steps 1 to 4 of
-argument evaluation are covered in the slides. But are the premises
-true? The first premise is not really a scientific claim because it is
-prescriptive rather than descriptive, as covered in the last
-lecture. The second premise is too vague to investigate, because of
-the term "unnecessary". What defines whether an event is
-unnecessary? However, the related claim "fox hunting causes
-suffering" is a claim for which the evidence can potentially examined
-be scientifically --- if one were satisfied that animal suffering is
-something that can be measured (which it probably is).
+We also considered an argument about fox hunting. Steps 1 to 4 of argument
+evaluation are covered in the slides. But are the premises true? The first
+premise is not really a scientific claim because it is prescriptive rather than
+descriptive, as covered in Lecture 1. The second premise is too vague to
+investigate, because of the term "unnecessary". What defines whether an event
+is unnecessary? However, the related claim "fox hunting causes suffering" is a
+claim for which the evidence can potentially examined be scientifically --- if
+one were satisfied that animal suffering is something that can be measured
+(which it probably is).
 
-### Ethymemes
+### Enthymemes
 
 This refers to a situation, undesirable but quite common even in
 scientific writing, where one or more of the premises are missing and
@@ -217,7 +216,7 @@ have to be inferred by the reader.
 ### Using the flowchart in your writing
 
 In the end, it all comes back to the flowchart. You should also see
-this as the receipe for constructing good arguments. One of the most
+this as the recipe for constructing good arguments. One of the most
 common problems in student essays and reports is that one or more of
 these steps are missing in the arguments presented. Most commonly, the
 conclusion is given, but the premises are not. Or, if they are, the
