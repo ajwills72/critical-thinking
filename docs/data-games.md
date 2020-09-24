@@ -12,12 +12,12 @@ basic histogram plotting and the idea of a distribution.
 
 ### What do they do?
 
-Students form groups by proximity / breakout rooms. Each size / makeup of
+Students form groups by proximity / breakout rooms. Makeup of
 groups doesn't matter, but no more than eight groups, and they should be of
 roughly equal size.
 
 Each student has a laptop, on which they have gone to
-[rolladie.net](https://rolladie.net) , set it up for rolling 4 six-sided
+[rolladie.net](https://rolladie.net) , and set it up for rolling 4 six-sided
 dice. They also go to [menti.com](https://www.menti.com) and enter the code
 provided.
 
@@ -42,7 +42,7 @@ distribution. We'll use this data in the mini-tutorial below.
 Gather the groups together. Ask students whether any one number on a
 single fair dice is more likely than any other (it isn't). Show them a
 likely tally chart for a single dice on this basis. Ask them to
-compare this with the tally chart for their horse race scores. How are
+compare this with the tally chart for their race scores. How are
 they different? Why are they different?  (They're different because
 there's only one way to get 24 or 4, but a lot of different ways to
 get middling sums). Make the point that when any number is the sum (or
@@ -69,14 +69,14 @@ Students do this game individually. They go to
 The class leader shows the [exam bingo board](data-games.odp).  The class
 leader starts revealing exam scores, one at a time, for the Red group, and the
 Blue group, in turn. Sample from the [distribution
-spreadsheet](exam-score-sheet.ods) - which the student should not see - without
+spreadsheet](exam-score-sheet.ods) - which the students should not see - without
 replacement.
 
 As soon as students are sure they know whether Reds or Blues are better on
 average, they vote. Keep going until everyone votes. TA views the mentimeter
 poll results - [example layout](bingo-poll.png) - **but does not share these
-results with students until the end of the game**. TA also keeps a record of
-how many people in total have voted at the end of each reveal of a score.
+results with students until the end of the game**. _TA also keeps a record of
+how many people in total have voted at the end of each reveal of a score._
 
 ### End-of-activity mini-lecture
 
