@@ -1,46 +1,10 @@
-date,time,workshop,group,leader,helper
-2019-10-07,14:00:00,7,1,Andy,Maddie
-2019-10-07,14:00:00,7,1,Andy,Despina
-2019-10-07,14:00:00,7,1,Andy,Paul
-2019-10-07,14:00:00,7,1,Andy,Stuart
-2019-10-07,14:00:00,7,1,Andy,Lenard
-2019-10-07,16:00:00,7,2,Andy,Maddie
-2019-10-07,16:00:00,7,2,Andy,Chris
-2019-10-07,16:00:00,7,2,Andy,Stuart
-2019-10-07,16:00:00,7,2,Andy,Lenard
-2019-10-07,16:00:00,7,2,Andy,Paul
-2019-10-08,11:00:00,7,3,Andy,Maddie
-2019-10-08,11:00:00,7,3,Andy,Katie
-2019-10-08,11:00:00,7,3,Andy,Paul
-2019-10-08,11:00:00,7,3,Andy,Lenard
-2019-10-08,11:00:00,7,3,Andy,Stuart
-2019-10-08,16:00:00,8,1,Andy,Ryan
-2019-10-08,16:00:00,8,1,Andy,Maddie
-2019-10-08,16:00:00,8,1,Andy,Paul
-2019-10-08,16:00:00,8,1,Andy,Stuart
-2019-10-08,16:00:00,8,1,Andy,Julie
-2019-10-09,09:00:00,8,2,Andy,Ryan
-2019-10-09,09:00:00,8,2,Andy,Despina
-2019-10-09,09:00:00,8,2,Andy,Stuart
-2019-10-09,09:00:00,8,2,Andy,Lenard
-2019-10-09,09:00:00,8,2,Andy,Paul
-2019-10-09,11:00:00,8,3,Andy,Ryan
-2019-10-09,11:00:00,8,3,Andy,Katie
-2019-10-09,11:00:00,8,3,Andy,Paul
-2019-10-09,11:00:00,8,3,Andy,Lenard
-2019-10-09,11:00:00,8,3,Andy,Stuart
-2019-10-10,16:00:00,9,1,Chris B,Chris
-2019-10-10,16:00:00,9,1,Chris B,Steff
-2019-10-10,16:00:00,9,1,Chris B,Paul
-2019-10-10,16:00:00,9,1,Chris B,Stuart
-2019-10-10,16:00:00,9,1,Chris B,Lenard
-2019-10-11,09:00:00,9,2,Chris B,Ryan
-2019-10-11,09:00:00,9,2,Chris B,Despina
-2019-10-11,09:00:00,9,2,Chris B,Stuart
-2019-10-11,09:00:00,9,2,Chris B,Lenard
-2019-10-11,09:00:00,9,2,Chris B,Paul
-2019-10-11,11:00:00,9,3,Chris B,Ryan
-2019-10-11,11:00:00,9,3,Chris B,Katie
-2019-10-11,11:00:00,9,3,Chris B,Paul
-2019-10-11,11:00:00,9,3,Chris B,Lenard
-2019-10-11,11:00:00,9,3,Chris B,Stuart
+Start,Duration,Location(s),Staff,Content,TARAs,PTTs
+"Tuesday, 6 October 20, 09:00",2:00,Link 301,Andy Wills,Distributions/data games,Katie,
+"Tuesday, 6 October 20, 11:00",2:00,Link 301,Andy Wills,Distributions/data games,Katie,
+"Tuesday, 6 October 20, 14:00",2:00,Link 301,Chris Berry,Distributions/data games,Chris,
+"Wednesday, 7 October 20, 09:00",2:00,Link 301,Andy Wills,Distributions/data games,Leonie,
+"Wednesday, 7 October 20, 11:00",2:00,Link 301,Andy Wills,Distributions/data games,Despina,
+"Monday, 12 October 20, 14:00",2:00,Online,Andy Wills,"R intro, exploring, differences","Karol, Steff, Tigan",2 tbc
+"Monday, 12 October 20, 16:00",2:00,Online,Andy Wills,"R intro, exploring, differences","Despina, Steff",3 tbc
+"Thursday, 15 October 20, 14:00",2:00,Online,Andy Wills,"Evidence, analysing your data","Tigan, Steff",3 tbc
+"Thursday, 15 October 20, 16:00",2:00,Online,Andy Wills,"Evidence, analysing your data","Shaun, Steff",3 tbc

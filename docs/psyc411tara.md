@@ -1,51 +1,35 @@
-# TARA / PTT support for PSYC411: Workshops 7, 8, 9
+# TARA / PTT support for PSYC411 workshops: One data games, two R.
 
 ## Where?
 
-Link 301
+Link 301 / Online.
 
 ## When?
 
-Complicated. There are 9 people supporting these 3 workshops, but only
-5 people at any given time. See this [list](staffing.csv) for when I
-am expecting to see you in Link 301.
+Complicated. There are 10 people supporting these 3 workshops, but only at most
+5 people at any given time. See this [list](staffing.csv) for when I am
+expecting to see you.
 
 ## What?
 
 Three two-hour workshops, on basic concepts in statistics and on how
 to use RStudio. More specifically...
 
-### Workshop 7
+### Data games
 
-- Distributions and samples (_1 hour_):
-   [slides](distributions-samples.pdf),
-   [instructor notes](distributions-samples.html)
+- [slides](data-games-slides.pdf)
+- [instructor notes](data-games.html)
 
-- Starting to use R (_1 hour_):
-   [worksheet 1](https://ajwills72.github.io/rminr/intro-rstudio.html),
-   [worksheet 2](https://ajwills72.github.io/rminr/exploring-incomes.html)
+### R workshop 1
+
+- [worksheet 1](https://ajwills72.github.io/rminr/intro-rstudio.html),
+- [worksheet 2](https://ajwills72.github.io/rminr/exploring-incomes.html)
+- [worksheet 3](https://ajwills72.github.io/rminr/group-differences.html)
    
-Students view worksheet 2 through
-[PsycEL](https://www.psy.plymouth.ac.uk/PsycEL/Login?ExpID=110).
-   
-### Workshop 8
+### R workshop 2
 
-- Regression to the mean, and illsusory correlation (_1 hour_):
-   [slides](regress-corr.pdf), 
-   [shove ha'penny game](http://www.psy.plymouth.ac.uk/labplus/lp411ShoveHapenny/default.html), 
-   [group behaviour statements](irr-corr.html), 
-   [instructor notes](regress-corr.html)
-
-- Group differences in R (_1 hour_): 
-   [worksheet](https://ajwills72.github.io/rminr/group-differences.html)
-
-### Workshop 9
-
-- Evidence in R (_1 hour_):
-  [worksheet](https://ajwills72.github.io/rminr/evidence.html)
-  
-- Analyzing their own data in R (_1 hour_):
-  [worksheet](https://ajwills72.github.io/rminr/using-projects.html)
+- [worksheet 4](https://ajwills72.github.io/rminr/evidence.html)
+- [worksheet 5](https://ajwills72.github.io/rminr/using-projects.html)
 
 ## Preparation?
 
