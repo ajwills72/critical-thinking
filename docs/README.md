@@ -22,9 +22,8 @@ critically, applied to the study of psychology as a science.
 
 - Data games - COVID version (_workshop, 2 hours_):
 
-    A single two-hour workshop that works for both socially-distanced in-person teaching, and Zoom-based teaching.
-	
-	[slides](data-games-slides.pdf)
+    A single two-hour workshop that works for both socially-distanced in-person teaching, and Zoom-based teaching:	
+	[slides](data-games-slides.pdf),
 	[instructor notes](data-games.html)
 
 
