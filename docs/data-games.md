@@ -161,3 +161,51 @@ files are:
 reg-to-mean.R
 shovehapenny.csv
 ```
+
+## Groups and behaviours (Illusory correlation)
+
+### What is it?
+
+Interactive demonstration of illusory correlation
+
+### What do they do?
+
+Students work individually. Each student views a series of positive and
+negative statements about members of two groups, displayed by the class
+leader. The slides are available [here](irr-corr.html).
+
+The students then rate the likelihood that members of the two groups engage in
+desirable and undesirable behaviours, using a mentimeter poll - [example
+format](irr-poll.png). **The results of the poll are not shown to students
+until all have completed.**
+
+### Post-activity mini-lecture
+
+Class leader reveals results of the study. The calculation you'll need to do here is as follows:
+
+1. Work out the goodness score for Group A (desirable - undesirable). e.g. 6.8 - 2.1 = 4.7
+
+2. Work out the goodness score for Group B e.g. 6.5 - 2.5 = 4.0
+
+The extent to which one group is favoured over the other is the extent to which
+these two scores differ.
+
+The expected result is that Group B (which is smaller), will be seen as less good. 
+
+Leader then reveals the table of desirable/undesirable behaviours versus group
+membership, and points out the desirable/undesirable ratio is the same for the
+two groups, but that one group is smaller. Makes some connections to
+e.g. real-world prejudice but mainly emphasises the ubiquity of the effect and
+the importance of producing these kind of contingency tables and looking at
+ratios (This will set up chi-square-like comparisons for future modules).
+
+### Source materials
+
+The [web-based activity](irr-corr.html) was created using the RPres
+format support by RStudio. The relevant files, which you can find in
+the github repository, are:
+
+```
+irr-corr.csv
+irr-corr.Rpres
+```
