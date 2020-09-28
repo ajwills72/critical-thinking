@@ -12,7 +12,7 @@ online interactive group work.
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonestyInteract.pdf),
    [notes](ScienceTruthHonestyNotesInteract.html),
-   [instructor notes](ScienceTruthHonestyInstructInteract.html)
+   [instructor notes](ScienceTruthHonestyInstructorInteract.html)
 
 
 ### Non-interactive version
@@ -22,7 +22,7 @@ Similar materials in a largley non-interactive format, suitable for in-person le
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonesty.pdf),
    [notes](ScienceTruthHonestyNotes.html).
-   [instructor notes](ScienceTruthHonestyInstruct.html)
+   [instructor notes](ScienceTruthHonestyInstructor.html)
 
 - Evaluating experiments (_2 hours_):
    [slides](EvaluatingExperiments.pdf),
