@@ -1,31 +1,50 @@
 
-## Critical Thinking
+## Critical Thinking lectures
 
-A set of lectures and workshops on the basics of thinking
-critically, applied to the study of psychology as a science. 
+A set of lectures on the basics of thinking critically, applied to the study of
+psychology as a science.
 
-- Science, truth, and honesty (_lecture, 2 hours_):
+### Interactive version
+
+Updated version of materials, designed for online delivery with substantial
+online interactive group work.
+
+- Science, truth, and honesty (_2 hours_):
+   [slides](ScienceTruthHonestyInteract.pdf),
+   [notes](ScienceTruthHonestyNotesInteract.html),
+   [instructor notes](ScienceTruthHonestyInstructInteract.html)
+
+
+### Non-interactive version
+
+Similar materials in a largley non-interactive format, suitable for in-person lecturing.
+
+- Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonesty.pdf),
    [notes](ScienceTruthHonestyNotes.html).
+   [instructor notes](ScienceTruthHonestyInstruct.html)
 
-- Evaluating experiments (_lecture, 2 hours_):
+- Evaluating experiments (_2 hours_):
    [slides](EvaluatingExperiments.pdf),
    [notes](EvaluatingExperiments.html).
 
-- Evaluating arguments (_lecture, 2 hours_):
+- Evaluating arguments (_2 hours_):
    [slides](EvaluatingArguments.pdf),
    [notes](EvaluatingArguments.html).
 
-- Evaluating risk (_lecture, 2 hours_): [slides](EvaluatingRisk.pdf),
+- Evaluating risk (_2 hours_): [slides](EvaluatingRisk.pdf),
    [notes](EvaluatingRisk.html).
 
+## Critical Thinking workshops
+
+A set of workshops on the basics of thinking critically, applied to the study
+of psychology as a science.
 
 - Data games - COVID version (_workshop, 2 hours_):
 
     A single two-hour workshop that works for both socially-distanced in-person teaching, and Zoom-based teaching:	
 	[slides](data-games-slides.pdf),
 	[instructor notes](data-games.html)
-
 
 - Data games - Physical objects version (_two workshops, 1 hour each_):
 
