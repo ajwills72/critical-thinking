@@ -14,7 +14,6 @@ online interactive group work.
    [notes](ScienceTruthHonestyNotesInteract.html),
    [instructor notes](ScienceTruthHonestyInstructorInteract.html)
 
-
 ### Non-interactive version
 
 Similar materials in a largley non-interactive format, suitable for in-person lecturing.
@@ -59,6 +58,15 @@ of psychology as a science.
        [shove ha'penny game](http://www.psy.plymouth.ac.uk/labplus/lp411ShoveHapenny/default.html), 
        [group behaviour statements](irr-corr.html), 
        [instructor notes](regress-corr.html)
+
+## Effective project management
+
+A two-hour interactive lecture on effective project management, taught from the perspective of planning an undergraduate final-year dissertation: 
+[slides](ProjMan.pdf), 
+[notes](ProjManNotes.md), 
+[Instructor notes](ProjManInstruct.md)
+
+
 
 ____
 
