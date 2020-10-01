@@ -14,22 +14,29 @@ online interactive group work.
    [notes](ScienceTruthHonestyNotesInteract.html),
    [instructor notes](ScienceTruthHonestyInstructorInteract.html)
 
+- Evaluating experiments (_2 hours_):
+   [slides](EvaluatingExperimentsInteract.pdf), 
+   [checklist](ExperimentChecklist.md),
+   [notes](EvaluatingExperimentsInteractNotes.md), 
+   [instructor notes](EvaluatingExperimentsInstructorInteract.md).
+
 ### Non-interactive version
 
 Similar materials in a largley non-interactive format, suitable for in-person lecturing.
 
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonesty.pdf),
-   [notes](ScienceTruthHonestyNotes.html).
+   [notes](ScienceTruthHonestyNotes.html),
    [instructor notes](ScienceTruthHonestyInstructor.html)
 
 - Evaluating experiments (_2 hours_):
    [slides](EvaluatingExperiments.pdf),
-   [notes](EvaluatingExperiments.html).
+   [notes](EvaluatingExperiments.html),
+   [instructor notes](EvaluatingExperimentsInstruct.md)
 
 - Evaluating arguments (_2 hours_):
    [slides](EvaluatingArguments.pdf),
-   [notes](EvaluatingArguments.html).
+   [notes](EvaluatingArguments.html),
 
 - Evaluating risk (_2 hours_): [slides](EvaluatingRisk.pdf),
    [notes](EvaluatingRisk.html).
