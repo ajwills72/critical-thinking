@@ -415,7 +415,7 @@ Score for clarity (0-2): 2
 
 - **What else is varying between conditions?** 
 
-1 .Number of others in room (one, or none) - seemingly uncontrolled between conditions.
+1. Number of others in room (one, or none) - seemingly uncontrolled between conditions.
 
 2. Notes are scored in original form for laptop notes, but were transcribed (by whom?) for the hand-written notes. 
 
@@ -429,7 +429,7 @@ Score for clarity (0-2): 2
 
 #1 - If unbalanced between conditions, could have caused difference.
 
-#2 - Although necessary to blind scorer, the transcription process itself may not have been done blind to the hypothesis (it's not stated)
+#2 - Although necessary to blind score, the transcription process itself may not have been done blind to the hypothesis (it's not stated)
 
 #5 - Possible failure of blinding, which could have led to effect.
 
