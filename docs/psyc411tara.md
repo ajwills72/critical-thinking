@@ -25,7 +25,9 @@ to use RStudio. More specifically...
 - [worksheet 1](https://ajwills72.github.io/rminr/intro-rstudio.html),
 - [worksheet 2](https://ajwills72.github.io/rminr/exploring-incomes.html)
 - [worksheet 3](https://ajwills72.github.io/rminr/group-differences.html)
-   
+
+See also: [session plan](plym-sessions.html).
+
 ### R workshop 2
 
 - [worksheet 4](https://ajwills72.github.io/rminr/evidence.html)
@@ -40,6 +42,4 @@ supporting. If you have questions, my availability is on outlook, so
 send me a meeting request for a time I am free. If you are able to
 come see me in groups larger than one to ask these questions, so much
 the better :-)
-
-
 
