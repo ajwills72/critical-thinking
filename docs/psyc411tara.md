@@ -26,7 +26,7 @@ to use RStudio. More specifically...
 - [worksheet 2](https://ajwills72.github.io/rminr/exploring-incomes.html)
 - [worksheet 3](https://ajwills72.github.io/rminr/group-differences.html)
 
-See also: [session plan](plym-sessions.html).
+See also: [session plan](plym-sesssions.html).
 
 ### R workshop 2
 
