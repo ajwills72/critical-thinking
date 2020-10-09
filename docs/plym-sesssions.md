@@ -26,6 +26,8 @@
 
 - We have many skilled people on hand to help you - just click 'ask for help' in your breakout room, and I'll assign someone to help your group. 
 
+- Read the every sentence of the worksheets slowly, clearly, and in order. Don't try to skip ahead, this is the most common reason students get stuck or misunderstand.
+
 - We'll return from breakout rooms for a very brief lecture and Q&A at 3pm. At that point you should have everything you need to complete the Psyc:EL activity. Make sure you complete this.
 
 - Bring your data to the next R workshop Thursday. We're going to analyze it. So, of course, you need to have finished collection before then. You also need to have worked out your scores, such that you have just a single number for each person you have tested. You'll need to do all that _before_ the session, because you'll need to full two-hours for everything else. 
