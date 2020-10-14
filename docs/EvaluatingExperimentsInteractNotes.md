@@ -467,7 +467,7 @@ Control for participant effects (0-2): 0
 
 - **Have they controlled for experimenter effects?** (e.g. blind scoring, pre-registration) 
 
-Scoring was blind. Analysis plan was not pre-registered.
+Scoring was blind, but transcription of written notes was not, and also possible experimenter influence through initial instructions. And the analysis plan was not pre-registered.
 
 Score for experimenter effects (0-2): 1
 

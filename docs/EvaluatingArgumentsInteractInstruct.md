@@ -31,13 +31,12 @@
 |  1:55 | teaching end | |
 |  2:00 | session end | |
 
-I've dropped the my-side bias stuff - direct students to notes.
 
 ## Experiment Evaluation activity (15 min)
 
 - I need to start with poll and feedback on the Experiment Evaluation activity (last session)
 
-- Collect each of component scores via poll, and total scores,  all in one go. (5 min)
+- Collect each of component scores via poll, and total scores, all in one go. (5 min)
 
 - Then talk through my take on this study, take questions/comments as I go. (10 min)
 

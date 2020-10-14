@@ -20,6 +20,12 @@ online interactive group work.
    [notes](EvaluatingExperimentsInteractNotes.md), 
    [instructor notes](EvaluatingExperimentsInstructorInteract.md).
 
+- Evaluating arguments (_2 hours_):
+   [slides](EvaluatingArgumentsInteract.pdf), 
+   [notes](EvaluatingArgumentsInteractNotes.md), 
+   [instructor notes](EvaluatingExperimentsInteractInstruct.md).
+   
+
 ### Non-interactive version
 
 Similar materials in a largley non-interactive format, suitable for in-person lecturing.
@@ -37,6 +43,7 @@ Similar materials in a largley non-interactive format, suitable for in-person le
 - Evaluating arguments (_2 hours_):
    [slides](EvaluatingArguments.pdf),
    [notes](EvaluatingArguments.html),
+   [instructor notes](EvaluatingArgumentsInstruct.md)
 
 - Evaluating risk (_2 hours_): [slides](EvaluatingRisk.pdf),
    [notes](EvaluatingRisk.html).
