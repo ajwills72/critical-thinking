@@ -23,7 +23,7 @@ online interactive group work.
 - Evaluating arguments (_2 hours_):
    [slides](EvaluatingArgumentsInteract.pdf), 
    [notes](EvaluatingArgumentsInteractNotes.md), 
-   [instructor notes](EvaluatingExperimentsInteractInstruct.md).
+   [instructor notes](EvaluatingArgumentsInteractInstruct.md).
    
 
 ### Non-interactive version
