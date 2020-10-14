@@ -24,7 +24,11 @@ online interactive group work.
    [slides](EvaluatingArgumentsInteract.pdf), 
    [notes](EvaluatingArgumentsInteractNotes.md), 
    [instructor notes](EvaluatingArgumentsInteractInstruct.md).
-   
+
+- Evaluating risk (_2 hours_): [slides](EvaluatingRiskInteract.pdf),
+   [notes](EvaluatingRiskInteractNotes.html),
+   [instructor notes](EvaluatingRiskInteractInstruct.md)
+
 
 ### Non-interactive version
 
@@ -46,7 +50,9 @@ Similar materials in a largley non-interactive format, suitable for in-person le
    [instructor notes](EvaluatingArgumentsInstruct.md)
 
 - Evaluating risk (_2 hours_): [slides](EvaluatingRisk.pdf),
-   [notes](EvaluatingRisk.html).
+   [notes](EvaluatingRisk.html),
+   [instructor notes](EvaluatingRiskInstruct.md)
+
 
 ## Critical Thinking workshops
 
