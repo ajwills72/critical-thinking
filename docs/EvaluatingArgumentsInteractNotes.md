@@ -258,7 +258,7 @@ involves putting in place a supporting structure that reminds you to look at
 both sides of the argument fully. When scaffolded, people produced on average
 six arguments on each side, eliminating my-side bias in their argumentation. 
 
-So, to avoid my-side bias, sscaffold yourself!
+So, to avoid my-side bias, scaffold yourself!
 
 
  ____
