@@ -87,6 +87,9 @@ A two-hour interactive lecture on effective project management, taught from the 
 [Instructor notes](ProjManInstruct.md)
 
 
+## Data management
+A two-hour interactive lecture on data management, using github and Rstudio, taught from the perspective of supporting an undergraduate final-year dissertation:
+[Instructor notes](data-management-instruct.md)
 
 ____
 
