@@ -1,10 +1,10 @@
 
-## Critical Thinking lectures
+## Critical Thinking lectures 
 
 A set of lectures on the basics of thinking critically, applied to the study of
 psychology as a science.
 
-### Interactive version
+### Interactive version (2020)
 
 Updated version of materials, designed for online delivery with substantial
 online interactive group work.
@@ -30,9 +30,9 @@ online interactive group work.
    [instructor notes](EvaluatingRiskInteractInstruct.md)
 
 
-### Non-interactive version
+### Non-interactive version (2018-2019)
 
-Similar materials in a largley non-interactive format, suitable for in-person lecturing.
+Similar materials in a largely non-interactive format, suitable for in-person lecturing.
 
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonesty.pdf),
@@ -54,32 +54,21 @@ Similar materials in a largley non-interactive format, suitable for in-person le
    [instructor notes](EvaluatingRiskInstruct.md)
 
 
-## Critical Thinking workshops
+## Critical Thinking workshops (2021)
 
-A set of workshops on the basics of thinking critically, applied to the study
-of psychology as a science.
+Two one-hour workshops.
 
-- Data games - COVID version (_workshop, 2 hours_):
-
-    A single two-hour workshop that works for both socially-distanced in-person teaching, and Zoom-based teaching:	
-	[slides](data-games-slides.pdf),
-	[instructor notes](data-games.html)
-
-- Data games - Physical objects version (_two workshops, 1 hour each_):
-
-    Two one-hour workshops, which require students to work in close proximity to each other.
-
-    - Distributions and samples (_workshop 1_):
+- Distributions and samples (_workshop 1_):
        [slides](distributions-samples.pdf),
        [instructor notes](distributions-samples.html)
 
-    - Regression to the mean, and illusory correlation (_workshop 2_):
+- Regression to the mean, and illusory correlation (_workshop 2_):
        [slides](regress-corr.pdf), 
        [shove ha'penny game](http://www.psy.plymouth.ac.uk/labplus/lp411ShoveHapenny/default.html), 
        [group behaviour statements](irr-corr.html), 
        [instructor notes](regress-corr.html)
 
-## Effective project management
+## Effective project management (2020)
 
 A two-hour interactive lecture on effective project management, taught from the perspective of planning an undergraduate final-year dissertation: 
 [slides](ProjMan.pdf), 
@@ -87,7 +76,8 @@ A two-hour interactive lecture on effective project management, taught from the 
 [Instructor notes](ProjManInstruct.md)
 
 
-## Data management
+## Data management (2020)
+
 A two-hour interactive lecture on data management, using github and Rstudio, taught from the perspective of supporting an undergraduate final-year dissertation:
 [Instructor notes](data-management-instruct.md)
 

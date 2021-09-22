@@ -5,94 +5,89 @@
 ### What is it?
 
 Activity to demonstrate where the normal distribution comes from. Also
-teaches/revises basic histogram plotting and the idea of a
-distribution.
+teaches/revises basic histogram plotting and the idea of a distribution.
 
 ### What do they do?
 
-Students get into groups of six. Each group has four dice, six farm
-animal models, a [sheet](race-dist.pdf) on which to produce a
-histogram, a start and end marker placed 1m apart, and a 30cm rule.
+After a brief all-class introduction, students work in their table groups (of
+approximately six). Each group has four dice, six farm animal models, a
+[sheet](race-dist.pdf) on which to produce a histogram, a start and end marker
+placed 1m apart, and a 30cm rule. Each student also goes to
+[menti.com](https://www.menti.com) and enters the code provided.
 
-On their turn, they throw the dice, add them up, move their horse that
-many centimetres, and make a tally mark on the histogram chart. First
-to the end wins!
+On their turn, they throw the dice, add them up, move their horse that many
+centimetres, and enter their score into Mentimeter. First to the end wins! If a
+student has more than one go, they need only enter their first score.
 
 ### What data do we end up with?
 
-Average throw is 4 * 3.5 = 14, so the average player will finish in 8
-throws. With 6 players, the likelihood is one will win more quickly,
-roughly 6 on average I think. So the group will end up with around 50
-tally marks on the sheet, which should be enough to show a normal-like
-distribution. We'll use this data in the mini-tutorial below.
+Average throw is 4 * 3.5 = 14, so the average group will finish in 8 throws,
+which is slightly larger than the expected group size. So, we'll end up with as
+many data points as there are students, which should be enough to show a
+normal-like distribution. We'll use this data in the mini-tutorial below.
 
-### End-of-exercise mini-tutorial
+### End-of-exercise mini-lecture
 
-Gather the groups together. Ask students whether any one number on a
-single fair dice is more likely than any other (it isn't). Show them a
-likely tally chart for a single dice on this basis. Ask them to
-compare this with the tally chart for their horse race scores. How are
-they different? Why are they different?  (They're different because
-there's only one way to get 24 or 4, but a lot of different ways to
-get middling sums). Make the point that when any number is the sum (or
-mean) of a bunch of different numbers, the sum will have approximately
-this distribution --- *whatever the distribution of the individual
-scores*. This is why a lot of data relating to people has a normal
+Talking to the whole class, ask students whether any one number on a single
+fair dice is more likely than any other (it isn't). Show them a likely tally
+chart for a single dice on this basis. Now reveal the results of the mentimeter
+poll. Ask them to compare the two. How are they different? Why are they
+different?  (They're different because there's only one way to get 24 or 4, but
+a lot of different ways to get middling sums). Make the point that when any
+number is the sum (or mean) of a bunch of different numbers, the sum will have
+approximately this distribution --- *whatever the distribution of the
+individual scores*. This is why a lot of data relating to people has a normal
 distribution. For example, IQ scores are made up of scores on a lot of
-different tests, and the resulting average is normally distributed (in
-the non-brain-damaged population).
+different tests, and the resulting average is normally distributed (in the
+non-brain-damaged population).
 
 ## Exam bingo (Sampling)
 
 ### What is it?
 
-Practical exercise to demonstrate Law of
-Small Numbers (Tversky & Kahenman) - in other words, the tendency to
-draw strong conclusions on the basis of insufficient data.
+Practical exercise to demonstrate Law of Small Numbers (Tversky & Kahenman) -
+in other words, the tendency to draw strong conclusions on the basis of
+insufficient data.
 
 ### What do they do?
 
-Get into groups of six, and then divide each into two groups of
-three. One group is the 'reds', and one group is the 'blues', and they
-each get a stack of cards of the corresponding colour. The stacks
-contain (invented) percentage test scores for members of their group.
+Students do this game individually. They go to
+[menti.com](https://www.menti.com) and enter the code provided.
 
-On the count of three, each team pulls out one score. The team with
-the higher score is the winner. Pass the card decks to the right and go
-again. When the group is confident they know which colour has the
-higher scores on average, they stop, recording the number of goes they
-had before stopping.
+The class leader uses  the [exam bingo board](data-games.pdf).  The class
+leader starts revealing exam scores, one at a time, for the Red group, and the
+Blue group, in turn. The numbers have been sampled from the [distribution
+spreadsheet](exam-score-sheet.ods) - which the students should not see - without
+replacement.
 
-Each group is then asked which colour is smarter, and how many goes
-they took to reach this decision. They record this on their [exam
-bingo card](exam-bingo-card.pdf).
+As soon as students are sure they know whether Reds or Blues are better on
+average, they vote. Keep going until everyone votes. TA views the mentimeter
+poll results - [example layout](bingo-poll.png) - **but does not share these
+results with students until the end of the game**. _TA also keeps a record of
+how many people in total have voted at the end of each reveal of a score._
 
-### End-of-activity mini-tutorial
+### End-of-activity mini-lecture
 
-First, it'll be instructive to see if every student group agrees (pots
-have same population characteristic between groups, but with small
-samples different groups will probably give different answers).
+First, it'll be instructive to see the level of agreement about which is the
+best - Reds or Blues?
 
-Second, ask how many samples each group took. Ask how many samples
-they think they'd need to be fairly sure which group was better. The
-answer for this obviously depends on the level of certainty required,
-but standard power calculations indicate 25 samples per group for 80%
-power at an alpha of .05 for the mean difference and standard
-deviation of these cards. 80% power is really the minimum that is
+Second, reveal how many samples people took before answering (the data collated
+by the TA).
+
+Ask how many samples they think they'd need to be fairly sure which group was
+better. The answer for this obviously depends on the level of certainty
+required, but standard power calculations indicate 25 samples per group (so 50
+pieces of data) for 80% power at an alpha of .05 for the mean difference and
+standard deviation of these cards. 80% power is really the minimum that is
 acceptable in modern psychology.
 
 Take home message: big samples are important.
 
-### What's in the card decks?
+### What's the distribution?
 
 Red pot contains numbers sampled from a normal distribution, mean 62,
-sd 10; blue pot is mean 70, sd 10.  To achieve 80% power at an alpha
-of .05 requires a sample size of 25 per group. Cards should all be
-individually coloured red or blue, to facilitate re-filling pots at
-the end of the session.
+sd 10; blue pot is mean 70, sd 10.
 
 Construction of the card decks was assisted by an R script, which you
-can find on this site's github repository at `src/sample-pots.R`. A
-set of 48 numbers for each group generated by this script, suitable
-for making your own cards, can be found [here](pots.csv).
+can find on this site's github repository at `src/sample-pots.R`. 
 
