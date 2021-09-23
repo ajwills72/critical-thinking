@@ -1,5 +1,5 @@
 # Science, truth, and honesty 
-_Andy Wils_
+_Andy Wills_
 
 This lecture series starts by considering two fundamental questions
 ---  'what is truth?' and 'what is science?'. We start with the
@@ -63,7 +63,7 @@ issues inherent in prescriptive claims by converting them to
 descriptive claims that are relevant to the prescriptive point.
 
 For example, a scientist who wishes to make the claim 'abortion
-should be made illegal' looks for an descriptive claim that would
+should be made illegal' looks for a descriptive claim that would
 support the prescriptive claim. For example, if one wished to support
 the outlawing of abortion, one might make the claim 'feotal pain
 receptors have developed by eight weeks gestation', in order to
@@ -115,7 +115,7 @@ further predictions.
 ## Scientific claims and truth
 
 Scientific claims are objective, descriptive, and relatively context
-independent. They also have a number of other properties.First, some
+independent. They also have a number of other properties. First, some
 scientific claims are true and others are false. A claim that is false
 can still be scientific if it meets the other criteria.
 
@@ -151,7 +151,7 @@ only person who can perform Willsian Therapy.
 
 Finally, scientific claims have to be falsifiable. This basically
 means that it must be possible to imagine an outcome of an experiment
-or other study that would lead to the conlcusion the claim was
+or other study that would lead to the conclusion the claim was
 false. If this is not possible, the claim is unfalsifiable and hence
 unscientific. Note the difference between falsifiable (one can imagine
 a set of circumstances in which it could be shown to be wrong), and
@@ -165,7 +165,7 @@ To summarize, science is about making scientific claims, and we've
 looked at what makes a claim scientific (or unscientific). But
 science, like all human endeavours, is about more than this. It is
 also about being part of a culture that holds certain behaviours and
-processes in high regard. Trangressing these rules leads to the normal
+processes in high regard. Transgressing these rules leads to the normal
 cultural sanctions --- isolation, exclusion and, sometimes,
 expulsion. In some cases, these cultural aspects represent A WAY of
 doing science, rather than THE ONLY WAY it could be done.
@@ -179,20 +179,20 @@ once without acknowledging you have done this. And it is dishonest to say you
 collected some data when actually you just made it up!
 		
 The reason honesty is such an important cultural norm in science is
-that it gets in the way of reliably evaluating claims, and wastes
+that dishonesty gets in the way of reliably evaluating claims, and wastes
 peoples' time. Science is a highly social cooperative activity.
 
 ## Failures to replicate
 
-Another important cultural norm in science is skepticism. Scientists
+Another important cultural norm in science is scepticism. Scientists
 should welcome it when others are skeptical about their claims,
-because such skepticism can lead to close examination of the evidence,
+because such scepticism can lead to close examination of the evidence,
 which in turn advances our understanding. Essentially, being
 scientific is about soliciting and welcoming criticism. This is
 something that many of us, including me, still find emotionally quite
 difficult.
 
-One recent development in skepticism is the increasing emphasis on not
+One recent development in scepticism is the increasing emphasis on not
 only scientific claims permitting independent replication, but the
 importance that such independent replication is actually
 conducted. Recent meta-analyses suggest that a half to two-thirds of
@@ -223,8 +223,8 @@ The same problem exists for expressions such as 'No one can say what
 is right or wrong'.
 
 Another real problem with relativism is that it seems to preclude the
-possibility of being wrong. If truth is simply what you believe, then
-your beliefs cannot be in error.
+possibility of being wrong. If truth is simply what you believe, then your
+beliefs cannot be in error (they can however be incoherent, see below).
 
 One can avoid these paradoxes by saying, for example 'some truth is
 relative'. This seems undeniably true, but it still leaves us with the
@@ -261,7 +261,7 @@ claims, and then keeping the results of that evaluation to yourself is
 generally frowned upon.  There are two important recent developments that have
 emerged from this belief in the importance of publication.
 
-The first is a realization that the traditional method of academic publishing
+The first is a realisation that the traditional method of academic publishing
 is getting in the way of the reasons we should be publishing in the first
 place. Generally, scientists publish in scientific journals. Subscriptions to
 these journals cost thousands of pounds a year, and are generally only held in
@@ -270,14 +270,14 @@ university libraries, which are often not open to the public.
 The solution is open-access publishing. This means making your publications
 freely available at no charge. There are a number of ways to achieve this. For
 example, every scientific paper I have ever written is available for free
-download from [my website](www.willslab.org.uk).
+download from [my website](https://www.andywills.info).
 
-The second recent development related to publication is the realization that
+The second recent development related to publication is the realisation that
 the internet now permits scientists to make not only their publications, but
 also their raw data, freely, publicly, and permanently available. This is
 really incredibly important. It is one thing to run a study again because you
 want to independently replicate it. It is quite another to have to run it again
-because the original author didn't analyze the data properly and the raw data
+because the original author didn't analyse the data properly and the raw data
 no longer exists.
 
 

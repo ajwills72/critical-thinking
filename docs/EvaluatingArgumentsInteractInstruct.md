@@ -34,6 +34,8 @@
 
 ## Experiment Evaluation activity (15 min)
 
+- There's an example answer [here](mueller-checklist.html)
+
 - I need to start with poll and feedback on the Experiment Evaluation activity (last session)
 
 - Collect each of component scores via poll, and total scores, all in one go. (5 min)

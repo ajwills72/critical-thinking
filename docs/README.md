@@ -4,10 +4,7 @@
 A set of lectures on the basics of thinking critically, applied to the study of
 psychology as a science.
 
-### Interactive version (2020)
-
-Updated version of materials, designed for online delivery with substantial
-online interactive group work.
+### Updated version (2021)
 
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonestyInteract.pdf),
@@ -30,9 +27,9 @@ online interactive group work.
    [instructor notes](EvaluatingRiskInteractInstruct.md)
 
 
-### Non-interactive version (2018-2019)
+### Classic version (2018-2019)
 
-Similar materials in a largely non-interactive format, suitable for in-person lecturing.
+Similar materials in a largely non-interactive format.
 
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonesty.pdf),

@@ -16,7 +16,7 @@ conclusions. For example:
 - Nicholas Cage's appearance in films may increase deaths by drowning.
 
 - Eating cheese may increase the risk you will be strangled by your
-  bedsheets.
+  bed sheets.
 
 ### Piracy and global warming (not in lecture)
 
@@ -121,28 +121,28 @@ this rules out a pre-existing difference in happiness.
 
 **Prevention** --- We construct our groups such that we eliminate the
 possibility of pre-existing differences. There are two main approached to
-prevention --- matching, or randomization.
+prevention --- matching, or randomisation.
 
 __Matching__ --- Take BDI measures for everyone. Allocate people to groups in
 such a way that the average BDI for the two groups is identical (or at least,
 minimally different).
 
-__Randomization__ --- Allocate people to groups randomly.
+__Randomisation__ --- Allocate people to groups randomly.
 
 Matching is technically superior, if you are reasonably confident you know what
 the relevant variables are, and if there are relatively small number of
 them. Here, we just used BDI, but what about age?  Number of previous episodes
 of depression? All these things might affect how much BDI varies over six weeks
-(with or without treatment). In practice, we often randomize. Random allocation
+(with or without treatment). In practice, we often randomise. Random allocation
 has the advantage that all variables (measured or otherwise) will be
 well-matched if your groups are large enough. The problem is that your groups
 have to be very large for this to be likely to be true.
 
 ### Back to our therapy experiment
 
-So, if we have very large randomized groups, no pre-treatment difference in
+So, if we have very large randomised groups, no pre-treatment difference in
 BDI, but a post-treatment difference --- can we then conclude that the
-treatment CAUSED the reduction in depresssion (as measured by BDI) ?
+treatment CAUSED the reduction in depression (as measured by BDI) ?
 
 Not quite yet. Next, we have to look long and hard for possible
 CONFOUNDING VARIABLES.
@@ -256,7 +256,7 @@ training course in relaxation therapy.
 An alternative hypothesis is that is it not the type of therapy that matters
 but some combination of how much the therapist believes in the treatment, how
 much experience they have in delivering it, and possibly their level of
-generalized expertise at making people feel happier.
+generalised expertise at making people feel happier.
 
 You could control for this (or at least get someway towards controlling for it)
 by ensuring the levels of expertise, ideological commitment, and years of
@@ -294,10 +294,10 @@ favourable to my theory?
 ### Blind testing
 
 There's a relatively straight forward answer to experimenter-effect problems in
-data analysis --- blind testing. When analyzing data, make sure you do not know
+data analysis --- blind testing. When analysing data, make sure you do not know
 which group is which. This is easy to achieve --- get someone else to replace
 the meaningful labels in your data set with meaningless ones, and ask them to
-withold the mapping from you until the analysis is complete.
+withhold the mapping from you until the analysis is complete.
 
 The central concept here is called ``blind testing''. Single-blind testing
 refers to experiments where the participant does not know which condition they
@@ -349,7 +349,7 @@ find auditory signals are faster, irrespective of order.
 
 These are common in psychology, but they are still weak ways to run
 experiments. Avoid them if at all possible. The term refers to
-expeirments where the alternative against which your preferred theory
+experiments where the alternative against which your preferred theory
 is tested is a null (no difference). For example, your preferred
 theory is that people differ in how quickly they react to auditory and
 visual alarm signals. Your alternative is that there is no
@@ -373,106 +373,7 @@ better, compare theories that make opposite predictions. For example,
 one well-established theory predicts auditory > visual whilst the
 other predicts visual > auditory. This is known as strong inference.
 
-## Good experiment checklist
 
-Below is an example evaluation of Study 1 of Mueller & Oppenheimer (2014)
-against the [good experiment checklist](ExperimentChecklist.html):
-
-
-- **What is the hypothesis?** 
-
-Taking notes on paper leads to better learning than taking notes on a laptop.
-
-This is because students can type faster than they write, and this speed
-encourages verbatim note taking, which is less effective than summarizing.
-
-Score for clarity (0-2): 2
-
-- **Is the hypothesis directional?** 
-
-Yes
-
-Score (no: 0, yes: 1): 1
-
-- **Is the study employing Strong Inference?** 
-
-Not really. The authors present no credible theory that would predict the opposite outcome. 
-
-Score (no: 0, yes: 1): 0
-
-- **What are the two conditions?**
-
-    - Note taking by hand
-    - Note taking on laptop
-
-Score for clarity (0-2):2
-
-- **What is intended to vary between the conditions?**
-
-Medium of notetaking
-
-Score for clarity (0-2): 2
-
-- **What else is varying between conditions?** 
-
-1. Number of others in room (one, or none) - seemingly uncontrolled between conditions.
-
-2. Notes are scored in original form for laptop notes, but were transcribed (by whom?) for the hand-written notes. 
-
-3. Number of words written larger for laptops.
-
-4. Laptop notes were more verbatim.
-
-5. The students were directed to the room by the experimenter. The experimenter would presumably be aware of the hypothesis and the condition the participant was in. Initial instructions given could have affected performance. 
-
-- **Which if any of these are potentially a confounding variable, given the hypothesis?**
-
-#1 - If unbalanced between conditions, could have caused difference.
-
-#2 - Although necessary to blind score, the transcription process itself may not have been done blind to the hypothesis (it's not stated)
-
-#5 - Possible failure of blinding, which could have led to effect.
-
-Score for level of control (0-2):1
-
-- **How many people per condition?**
-
-Not stated. We're told there were 67 people in total, but not how they were split between conditions
-
-- **What is measured?**
-
-Response to 'factual' and 'conceptual' questions.
-
-- **How is this scored?**
-
-By the author and a second rater. 
-
-- **Have they controlled for pre-existing differences?** (Detection, matching, large-group randomization)
-
-Not stated. We might guess randomization. Sample size is rather small for that to be effective.
-
-Score for level of control (0-2): 1
-
-- **Is there a substantial issue with attrition?** 
-
-Very few people removed from sample, so presumably attrition was close to zero in both groups. 
-
-Score for attrition (0 = serious issues, 2 = no issues, 0-2) : 2
-
-- **Have they controlled for participant effects?** (e.g. by blinding) 
-
-No, they didn't - participants knew which condition they were in. Didn't ask these students which method they thought would be better.
-
-Control for participant effects (0-2): 0
-
-- **Have they controlled for experimenter effects?** (e.g. blind scoring, pre-registration) 
-
-Scoring was blind, but transcription of written notes was not, and also possible experimenter influence through initial instructions. And the analysis plan was not pre-registered.
-
-Score for experimenter effects (0-2): 1
-
-
-**TOTAL SCORE:** 12 (out of 18).
 
 
 

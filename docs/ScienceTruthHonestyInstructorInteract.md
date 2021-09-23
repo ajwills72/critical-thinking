@@ -8,18 +8,17 @@ A = active
 | 0:00 | Session start | |
 | 0:05 | Introduce myself, session intro, asking qu.s, limitations of emails | P |
 | 0:08 | Topics, truth as property of claims | P | 
-| 0:11 | Subjective and objective claims | P  |
-| 0:14 | Cabbage vs. chocolate poll (zoom) | A  |
-| 0:15 | Vague claims are subjective | P  |
-| 0:18 | Objective claims poll (zoom) | A  |
-| 0:22 | Scientific claims ... ODATBIF | P |
+| 0:14 | Subjective and objective claims | P  |
+| 0:16 | Cabbage vs. chocolate poll (zoom) | A  |
+| 0:19 | Vague claims are subjective | P  |
+| 0:21 | Objective claims poll (zoom) | A  |
+| 0:26 | Scientific claims ... ODATBIF | P |
 | 0:48 | ACTIVITY 1: Claims | A tot 25 |
-| 1:08 | Reflect on claims activity, take Q & A | A |
-| 1:13 | Culture of science intro | P |
-| 1:15 | Stapel, Smeesters | P |
-| 1:18 | Ap D., Reproducibility project | P |
-| 1:28 | ACTIVITY 2: Does it replicate?  | A |
-| 1:50 | Activity feedback | A |
+| 1:12 | Reflect on claims activity, take Q & A | A |
+| 1:22 | Culture of science intro | P |
+| 1:24 | Stapel, Smeesters | P |
+| 1:31 | Ap D., Reproducibility project | P |
+| 1:41 | ACTIVITY 2 Intro: Does it replicate?  | P |
 | 1:55 | Rstudio login note - Scheduled session end |  |
 | 2:00 | All over | |
 
@@ -57,10 +56,11 @@ that were even close:
 Huang et al. (2018) "Neural correlates of novelty and appropriateness
 processing in externally induced constraint relaxation" - Amygdala reaction is
 not to novelty, but to appropriateness. So emotional response to problem
-solving, not to an aha! effect specifically.
+solving, not to an aha! effect specifically. But falls short of a direct
+replication.
 
 Gonzalez-Garcia et al. (2018) "Content-specific activity in frontoparietal and
 default-mode networks during prior- guided visual perception" - Did not show
-amygdala reaction
+amygdala reaction, but again falls short of a direct replication.
 
 
