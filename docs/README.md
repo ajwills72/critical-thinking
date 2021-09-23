@@ -27,7 +27,7 @@ psychology as a science.
    [instructor notes](EvaluatingRiskInteractInstruct.md)
 
 
-### Classic version (2018-2019)
+### Classic version (2018)
 
 Similar materials in a largely non-interactive format.
 

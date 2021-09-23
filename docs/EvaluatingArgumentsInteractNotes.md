@@ -9,41 +9,17 @@ method for evaluating arguments.
 
 ## Weak arguments
 
-Weak arguments are those that do not support the arguer's conclusion
-(or do so only very weakly). Weak arguments are prevalent in general
-society, and even in science, because they have the _appearance_
-of being good arguments. I'm telling you about weak arguments so you
-can detect and reject them. Do not be tempted by the _dark side_
-of weak arguments! They are very powerful, as they can often be used
-to win arguments without having to go to the bother of considering the
-evidence.
+Weak arguments are those that do not support the arguer's conclusion (or do so
+only very weakly). Weak arguments are prevalent in general society, and even in
+science, because they have the _appearance_ of being good arguments. I'm
+telling you about weak arguments so you can detect and reject them. Do not be
+tempted by the _dark side_ of weak arguments! They are very powerful, as they
+can often be used to win arguments without having to go to the bother of
+considering the evidence.
 
-Across several slides, I summarise some of the more common weak
-arguments. The examples on the slides are intended to be light hearted
-and clear, but the point is serious. Listen to media reports, read
-scientific papers, and try to identify these kinds of weak
-arguments. Here are some further examples:
-
-- "Many migrants are from Syria, and some Syrians are terrorists,
-  so some migrants are terrorists". This is a non-sequitur.
-
-- "Global warming is a good thing --- it's always so bloody cold
-  around here!". This is equivocation - it makes use of the everyday
-  meaning of the word "warming", which is different to scientific
-  meaning of the term global warming, which relates to a range of
-  effects consequent to a rise in overall global temperature
-  (including, potentially, a reduction in UK temperatures due to
-  movement of the gulf stream).
-
-- "Dr. Smith, a leading expert in sleep research, confirms that
-  alarm clocks are bad for your health". Unless one goes on to
-  discuss the evidence, this is an appeal to force --- we are meant to
-  be convinced by the description of this person as an expert.
-
-- A GP says "I'm going to prescribe Prozac. It's an
-  anti-depressant, so it should improve your mood". By definition, an
-  anti-depressant improves mood, so this statement is circular, it
-  provides no evidence for the conclusion. It is begging the question.
+Across several slides, I summarise some of the more common weak arguments. The
+examples on the slides start light hearted and clear, but the later examples
+indicate that serious issues are at stake here.
 
 As an exercise, see if you can come up with your own examples of the
 weak arguments discussed in the lectures. 
@@ -159,7 +135,7 @@ is therefore wrong to hunt foxes.". Here's one analysis of that argument:
 1. The conclusion is: "It is therefore wrong to hunt foxes".
 
 2. The two premises are: (a) "It is wrong to cause unnecessary suffering to an
-animal", and (b) "Fox hunting causes unnecessary suffering to the fox".  
+animal", and (b) "Fox hunting causes unnecessary suffering to the fox".
 
 3. The relationship between the two premises and the conclusions is
 _conjoint_. Both statements have to be correct for the conclusion to be
@@ -183,7 +159,7 @@ because it is prescriptive rather than descriptive, as covered in
 Lecture 1. The second premise is too vague to investigate, because of the term
 "unnecessary". What defines whether an event is unnecessary? However, the
 related claim "fox hunting causes suffering" is a claim for which the evidence
-can potentially examined be scientifically --- if one were satisfied that
+can potentially be examined scientifically --- if one were satisfied that
 animal suffering is something that can be measured (which it probably is).
 
 ### Enthymemes (not in lecture)
