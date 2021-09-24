@@ -4,8 +4,6 @@
 A set of lectures on the basics of thinking critically, applied to the study of
 psychology as a science.
 
-### Updated version (2021)
-
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonestyInteract.pdf),
    [notes](ScienceTruthHonestyNotesInteract.html),
@@ -25,7 +23,6 @@ psychology as a science.
 - Evaluating risk (_2 hours_): [slides](EvaluatingRiskInteract.pdf),
    [notes](EvaluatingRiskInteractNotes.html),
    [instructor notes](EvaluatingRiskInteractInstruct.md)
-
 
 ### Classic version (2018)
 

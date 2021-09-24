@@ -56,3 +56,5 @@
 ## Activity 2: Fox-hunting argument
 
 Suggest work in pairs or tutorial groups. They can evaluate this argument using the flowchart. They start in session, finish as homework, report back next week.
+
+There is an example answer to this actvity [here](fox-hunting.html).

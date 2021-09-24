@@ -30,7 +30,7 @@ cigarette packet warning "Smoking kills". The warning itself - taken
 literally - must be wrong. It's true that the probability of death, given you
 smoke, is 1. However, the probability of death, given you do not smoke, is
 also 1. So, your probability of death is unrelated to whether you smoke. The
-daft wording of the warning makes the not uncommon defense: "We all gotta die
+daft wording of the warning makes the not uncommon defence: "We all gotta die
 of something" entirely reasonable.
 
 ### Smokers die younger?
@@ -136,7 +136,7 @@ switch.
 
 ## Statistical independence
 
-Statistical indepdence is one of the most frequently misunderstood concepts in
+Statistical independence is one of the most frequently misunderstood concepts in
 critical thinking, and getting it wrong can have tragic consequences, as we'll
 see later. First, we need to define the term _conditional probability_.
 
@@ -194,7 +194,7 @@ fallacies for things that are inanimate (like Roulette wheels).
 ## Conjunction Rule
 
 We discussed the imaginary case study of Linda. It's quite famous, but rather
-antiquated these days. In the lecture, I updated it a litte, but here's the
+antiquated these days. In the lecture, I updated it a Little, but here's the
 original version:
 
 "Linda is 31 years old, single, outspoken, and very bright. She majored in
@@ -204,7 +204,7 @@ demonstrations"
 
 You then considered which of these two statements was more likely to be true:
 (a) "Linda is a bank teller", (b) "Linda is a feminist bank teller". A _teller_
-is an Amercian English phrase for the person who works behind the counter in a
+is an American English phrase for the person who works behind the counter in a
 bank taking in cheques and giving out cash (I can't remember the last time I
 went into a bank, but apparently such people still exist ... I told you it was
 an old example...)
@@ -271,7 +271,7 @@ Meadows argued:
 2.  If the family is affluent, and the mother is over 26, then the
     chances are even lower; 1 in 8500, p = .0001.
 
-3.   Throughh the _conjunction rule_, the probability of two cot
+3.   Through the _conjunction rule_, the probability of two cot
      deaths in the same family is .0001 x .0001 = 1 x 10^{-8}
      = 1 in 73 million, or less than once a century in the UK.
 	 
@@ -281,4 +281,18 @@ Meadows argued:
 Prof. Meadow's error was assuming that two cot deaths in the same
 family were independent events. This is extremely unlikely (shared
 environment, shared genetics). 
+
+### Key ideas in risk and probability
+
+This lecture covered quite a lot of ground. Here are the key points for your future life:
+
+1. Two events both happening can never be more likely than one of them happening (Linda example)
+
+1. The likelihood of a set of _independent_ events all happening is the product of their indvidual probabilities.
+
+1. If a lot of independent events all have to happen, this is quite unlikely, even if each event is individually very likely (e.g. all birthdays being non-shared in a class of 30). 
+
+1. The number of pairs in a large group is much bigger than you think it is. Failing to work out the number of pairs in a group can often lead us to make incorrect predictions about large groups. 
+
+1. Events are not always independent (e.g. the death of Sally Clarke's two children)
 
