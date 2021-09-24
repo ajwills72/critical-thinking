@@ -1,8 +1,25 @@
 
-## Critical Thinking lectures 
+Originally a collection of critical thinking lectures, these pages have expanded over the years to include workshops in research methods that complement [RMINR](https://www.andywills.ingo/rminr/),
+
+## Contents
+
+- [Critical thinking lectures](#ct-lectures) (Psychology UG, Year 1).
+
+- ["Data games" workshops](#ct-workshops) including [example plan](psyc411tara.md) for integration into [RMINR](https://andywills.info/rminr) materials (Psychology UG, Year 1).
+
+- [Effective project management](#effective-project) (Psychology UG, Final Year).
+
+- [Data management](#data-management) - instructor notes to support this RMINR [worksheet](https://www.andywills.info/rminr/data-github.html) (Psychology UG, Final Year).
+
+<a name="ct-lectures"></a>
+
+## Critical Thinking lectures (Updated 2021)
 
 A set of lectures on the basics of thinking critically, applied to the study of
-psychology as a science.
+psychology as a science, aimed at first-year undergraduates. 
+
+I've given introductory lectures on this topic, in various forms, every year
+since 2012. Below are the materials I delivered in 2021.
 
 - Science, truth, and honesty (_2 hours_):
    [slides](ScienceTruthHonestyInteract.pdf),
@@ -24,33 +41,14 @@ psychology as a science.
    [notes](EvaluatingRiskInteractNotes.html),
    [instructor notes](EvaluatingRiskInteractInstruct.md)
 
-### Classic version (2018)
+<a name="ct-workshops"></a>
 
-Similar materials in a largely non-interactive format.
+## "Data games" workshsops (Updated 2021)
 
-- Science, truth, and honesty (_2 hours_):
-   [slides](ScienceTruthHonesty.pdf),
-   [notes](ScienceTruthHonestyNotes.html),
-   [instructor notes](ScienceTruthHonestyInstructor.html)
+Two one-hour workshops, aimed at first-year undergraduate psychology students.
 
-- Evaluating experiments (_2 hours_):
-   [slides](EvaluatingExperiments.pdf),
-   [notes](EvaluatingExperiments.html),
-   [instructor notes](EvaluatingExperimentsInstruct.md)
-
-- Evaluating arguments (_2 hours_):
-   [slides](EvaluatingArguments.pdf),
-   [notes](EvaluatingArguments.html),
-   [instructor notes](EvaluatingArgumentsInstruct.md)
-
-- Evaluating risk (_2 hours_): [slides](EvaluatingRisk.pdf),
-   [notes](EvaluatingRisk.html),
-   [instructor notes](EvaluatingRiskInstruct.md)
-
-
-## Critical Thinking workshops (2021)
-
-Two one-hour workshops.
+I've delivered this material, in various forms, every year since 2018. Below
+are the materials I delivered in 2021.
 
 - Distributions and samples (_workshop 1_):
        [slides](distributions-samples.pdf),
@@ -62,15 +60,19 @@ Two one-hour workshops.
        [group behaviour statements](irr-corr.html), 
        [instructor notes](regress-corr.html)
 
-## Effective project management (2020)
+<a name="effective-project"></a>
+
+## Effective project management (New in 2020)
 
 A two-hour interactive lecture on effective project management, taught from the perspective of planning an undergraduate final-year dissertation: 
+
 [slides](ProjMan.pdf), 
 [notes](ProjManNotes.md), 
 [Instructor notes](ProjManInstruct.md)
 
+<a name="data-management"></a>
 
-## Data management (2020)
+## Data management (New in 2020)
 
 A two-hour interactive lecture on data management, using github and Rstudio, taught from the perspective of supporting an undergraduate final-year dissertation:
 [Instructor notes](data-management-instruct.md)
