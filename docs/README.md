@@ -22,10 +22,11 @@ I've given introductory lectures on this topic, in various forms, every year
 since 2012. Below are the materials I delivered in 2021.
 
 - Science, truth, and honesty (_2 hours_):
+   [request to wear mask](masks.pdf),
    [slides](ScienceTruthHonestyInteract.pdf),
    [notes](ScienceTruthHonestyNotesInteract.html),
    [instructor notes](ScienceTruthHonestyInstructorInteract.html),
-   [Ludmer et al., 2011](https://core.ac.uk/download/pdf/82103595.pdf)
+   [Ludmer et al., 2011](https://core.ac.uk/download/pdf/82103595.pdf),
 
 - Evaluating experiments (_2 hours_):
    [slides](EvaluatingExperimentsInteract.pdf), 
