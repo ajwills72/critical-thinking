@@ -33,6 +33,7 @@ since 2012. Below are the materials I delivered in 2021.
    [checklist](ExperimentChecklist.md),
    [notes](EvaluatingExperimentsInteractNotes.md), 
    [instructor notes](EvaluatingExperimentsInstructorInteract.md).
+   [Mueller & Oppenheimer, 2014](https://colinallen.dnsalias.org/Readings/Pen_vs_Keyboard_Notes.pdf).
 
 - Evaluating arguments (_2 hours_):
    [slides](EvaluatingArgumentsInteract.pdf), 
