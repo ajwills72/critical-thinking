@@ -83,7 +83,7 @@ any two variables are completely unrelated. It's a complex, inter-related
 world, and we're complex, inter-related beings. Many of the correlations we
 observe in psychology are extremely small. For example, in the study of
 personality, it is not unusual for a measure such as extroversion to explain as
-little as 5\% of the variation in another variable. This is detectably
+little as 5% of the variation in another variable. This is detectably
 different from no association (with methods you'll be taught about later in
 your degree), but it's frankly silly to have 'no association' as your competing
 theory because more-or-less everything is associated to more-or-less everything
@@ -120,7 +120,7 @@ therapy started. If the two groups were comparable on BDI before the treatment,
 this rules out a pre-existing difference in happiness.
 
 **Prevention** --- We construct our groups such that we eliminate the
-possibility of pre-existing differences. There are two main approached to
+possibility of pre-existing differences. There are two main approaches to
 prevention --- matching, or randomisation.
 
 __Matching__ --- Take BDI measures for everyone. Allocate people to groups in
@@ -142,7 +142,7 @@ have to be very large for this to be likely to be true.
 
 So, if we have very large randomised groups, no pre-treatment difference in
 BDI, but a post-treatment difference --- can we then conclude that the
-treatment CAUSED the reduction in depression (as measured by BDI) ?
+treatment CAUSED the reduction in depression (as measured by BDI)?
 
 Not quite yet. Next, we have to look long and hard for possible
 CONFOUNDING VARIABLES.
@@ -172,7 +172,7 @@ illusion caused by differential, non-random, attrition.
 ### Placebo effect
 
 The classic example of a placebo effect is that a pill with no active
-ingredients, that a participant believes to be a headache remedy,
+ingredients, which a participant believes to be a headache remedy,
 reduces headache symptoms. The participant's expectation that the
 treatment will be effective is sufficient to reduce symptoms.
 
@@ -180,7 +180,7 @@ The lesson, often not heeded in drug testing, is that in order to
 assess whether your drug is effective, you need to compare against a
 placebo control. So, taking the drug versus taking the placebo. Rather
 than taking the drug versus not taking it. It is now widely believed
-that the effects of anti-depressant medication is almost entirely
+that the effects of anti-depressant medication are almost entirely
 placebo. The question is harder to address, but no less important, for
 psychological treatments.
 
@@ -253,7 +253,7 @@ who developed it. The relaxation therapy is delivered by people who have no
 particular investment in relaxation therapy, but have been on a one-week
 training course in relaxation therapy.
 
-An alternative hypothesis is that is it not the type of therapy that matters
+An alternative hypothesis is that it is not the type of therapy that matters
 but some combination of how much the therapist believes in the treatment, how
 much experience they have in delivering it, and possibly their level of
 generalised expertise at making people feel happier.
@@ -278,7 +278,7 @@ the experimenter knows which condition the participant is in, this may bias
 their assessment of happiness.
 
 Although not so often talked about, the problem can still occur with entirely
-objective measurements (e.g. reaction time). The problem occurs because (as you
+machine-collected measurements (e.g. reaction time). The problem occurs because (as you
 will increasingly see throughout your degree), data analysis involves a number
 of steps, all of which have the potential for bias. If the experimenter knows
 what condition the participants are in, this knowledge could bias their
@@ -318,7 +318,7 @@ now think as what we thought all along.
 In the lecture, I used a Richard Feynman quote as context. This is an
 endorsement of some of this views about science, not an endorsement of the man
 himself. Feynman was misogynistic, and may have been physically abusive to his
-ex-wife. You can read more [here](https://slate.com/technology/2019/01/richard-feynman-physical-abuse-science-wife-fbi.html)
+ex-wife. You can read more [here](https://slate.com/technology/2019/01/richard-feynman-physical-abuse-science-wife-fbi.html).
 
 ## Order effects (not in lecture)
 
