@@ -198,6 +198,9 @@ importance that such independent replication is actually
 conducted. Recent meta-analyses suggest that a half to two-thirds of
 results in psychology fail to replicate. 
 
+As homework, you were asked to investigate whether Ludmer et al. (2011) had
+been successfully replicated. Some answers to that question can be found
+[here](ludmer-replicate.html).
 
 # Further materials
 

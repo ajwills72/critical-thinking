@@ -50,17 +50,6 @@ inhibitory, but not both" - - All but appropriately context-independent
 
 ## Activity 2: Does it replicate?
 
-Paper is from a recent lecture. I checked the first 30 or so, only found these
-that were even close:
-
-Huang et al. (2018) "Neural correlates of novelty and appropriateness
-processing in externally induced constraint relaxation" - Amygdala reaction is
-not to novelty, but to appropriateness. So emotional response to problem
-solving, not to an aha! effect specifically. But falls short of a direct
-replication.
-
-Gonzalez-Garcia et al. (2018) "Content-specific activity in frontoparietal and
-default-mode networks during prior- guided visual perception" - Did not show
-amygdala reaction, but again falls short of a direct replication.
+Some answers for this activity can be found [here](ludmer-replicate.html).
 
 

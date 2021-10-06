@@ -27,6 +27,7 @@ since 2012. Below are the materials I delivered in 2021.
    [notes](ScienceTruthHonestyNotesInteract.html),
    [instructor notes](ScienceTruthHonestyInstructorInteract.html),
    [Ludmer et al., 2011](https://core.ac.uk/download/pdf/82103595.pdf),
+   [Is there a replication of Ludmer et al., 2011?](ludmer-replicate.md),
 
 - Evaluating experiments (_2 hours_):
    [slides](EvaluatingExperimentsInteract.pdf), 

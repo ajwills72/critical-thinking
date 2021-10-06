@@ -54,7 +54,7 @@ distinguished on the basis of correlational data.
 ### Longitudinal data
 
 Using longitudinal data does not solve the problem. For example, there's a
-famous (and accurate) result that the use of night lights in a baby's room is
+famous result that the use of night lights in a baby's room is
 associated with myopia in their later life. Babies with night lights are more
 likely to be short-sighted in later life than babies without night lights.
 
@@ -64,7 +64,7 @@ eliminate the alternative explanation that myopia in later life causes the
 presence of night lights in infancy. It feels like there's only one option left
 --- night lights cause myopia. We should ban night lights, because this would
 reduce myopia. Indeed, such recommendations were made on the basis of this
-research.
+research  [(Quinn et al., 1999)](https://www.researchgate.net/profile/Graham-Quinn-2/publication/12962583_Myopia_and_ambient_lighting_at_night_5/links/54e4867d0cf2dbf60696cb50/Myopia-and-ambient-lighting-at-night-5.pdf).
 
 What longitudinal research does not rule out is the presence of a third factor
 that causes both the night lights and myopia. For example, myopia has a genetic
@@ -72,7 +72,7 @@ component. Thus, if your parents are myopic, there's a good chance you will
 become so, too. In addition, myopic people tend to prefer more brightly-lit
 environments (perhaps because this compensates for the myopia somewhat). So,
 having myopic parents could be the cause of both the presence of night lights
-and the later myopia.
+and the later myopia [(see e.g. Gwiazda et al., 2000)](https://www.nature.com/articles/35004663.pdf).
 
 ### Correlation does not imply causation
 
