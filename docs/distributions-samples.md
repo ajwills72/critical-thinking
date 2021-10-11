@@ -10,12 +10,11 @@ teaches/revises basic histogram plotting and the idea of a distribution.
 ### What do they do?
 
 After a brief all-class introduction, students work in their table groups (of
-approximately six). Each group has four dice, six farm animal models, a
-[sheet](race-dist.pdf) on which to produce a histogram, a start and end marker
-placed 1m apart, and a 30cm rule. Each student also goes to
+approximately six). Each group has four dice, six farm animal models, a start
+and end marker placed 1m apart, and a 30cm rule. Each student also goes to
 [menti.com](https://www.menti.com) and enters the code provided.
 
-On their turn, they throw the dice, add them up, move their horse that many
+On their turn, they throw the dice, add them up, move their farm animal that many
 centimetres, and enter their score into Mentimeter. First to the end wins! If a
 student has more than one go, they need only enter their first score.
 
