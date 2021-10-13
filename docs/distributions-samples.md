@@ -11,7 +11,7 @@ teaches/revises basic histogram plotting and the idea of a distribution.
 
 After a brief all-class introduction, students work in their table groups (of
 approximately six). Each group has four dice, six farm animal models, a start
-and end marker placed 1m apart, and a 30cm rule. Each student also goes to
+and end marker placed 45cm apart, and a 30cm rule. Each student also goes to
 [menti.com](https://www.menti.com) and enters the code provided.
 
 On their turn, they throw the dice, add them up, move their farm animal that many
@@ -20,10 +20,17 @@ student has more than one go, they need only enter their first score.
 
 ### What data do we end up with?
 
-Average throw is 4 * 3.5 = 14, so the average group will finish in 8 throws,
-which is slightly larger than the expected group size. So, we'll end up with as
-many data points as there are students, which should be enough to show a
-normal-like distribution. We'll use this data in the mini-tutorial below.
+Average throw is 4 * 3.5 = 14, so the average animal will finish in 4-5
+throws. However, we only need one animal to pass the line, and there will be
+about six animals per group, so the average group will take probably more like
+3-4 rounds (if anyone would like to sit down and work out the probability
+distrbution, let me know).
+
+The limiting factor on sample size is likely to be the polling software. For
+example, Mentimeter only allows any one person to respond once, so your sample
+size will be as large as the number of people playing. We have around 80 in
+class, which is enough to show a normal-like distribution. We'll use this data
+in the mini-tutorial below.
 
 ### End-of-exercise mini-lecture
 
