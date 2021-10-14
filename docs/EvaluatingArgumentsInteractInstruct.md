@@ -20,7 +20,7 @@
 |  1:15 | Second half intro | 
 |  1:17 | Infalliable flowchart | 
 |  1:23 | Evaluating an argument | 
-|  1:24 | Conclusion and presmises | 
+|  1:24 | Conclusion and premises | 
 |  1:25 | Identify the relationship | 
 |  1:26 | Do the premises support the conclusion? | 
 |  1:29 | Are the premises true? | 
@@ -42,7 +42,7 @@
 
 ## Activity 1: Spot the weak argument 
 
-- Suggest work in pairs, or tutorial groups.
+- Work in pairs.
 
 - 6 examples, one for each type. 
 
@@ -55,6 +55,6 @@
 
 ## Activity 2: Fox-hunting argument
 
-Suggest work in pairs or tutorial groups. They can evaluate this argument using the flowchart. They start in session, finish as homework, report back next week.
+Work in pairs. They can evaluate this argument using the flowchart. They start in session, finish as homework, report back next week.
 
 There is an example answer to this actvity [here](fox-hunting.html).
