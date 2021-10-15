@@ -4,22 +4,6 @@ _Interactive version_
 
 The timings below are from the 2020 session, which was run entirely on Zoom. Some thoughts/reflections on the 2021 session, which was blended (2/3rds students in lecture hall, 1/3rd on Zoom)
 
-## Reflections on 2021 session
-
-This is quite an information-heavy session, with a lot of different things to tell the students and them putting this knowledge to work only happens in the homework. I think it might be worth breaking it up with a half-way Mentimeter poll, although it'd have to be quick as time is limited.
-
-There's also some tidying to do from cuts I made in 2020. In particular, the discussion of single-blind testing largely comes from the consideration of participant effects, which got cut and makes the double-blind description odd (it's odd anyway, as why is single participants? Conventional, but doesn't make a lot of sense). Rejig this slide to talk about experimenter-blind testing, drop single-blind?
-
-More clearly split the later material into sub-sections:
-
-1. Attrition
-
-2. Participant Effects: Placebo effect as a type of Participant Effect (refer students to notes for other types, with a slide)
-
-3. Experimenter effects - of which response coding and analysis choices are two examples, and blind and pre-reg as possible solutions. 
-
-4. Good and bad hypotheses - with diff/no-diff, directional, and strong inference as examples. 
-
 ## Timings
 
 | time | activity |
