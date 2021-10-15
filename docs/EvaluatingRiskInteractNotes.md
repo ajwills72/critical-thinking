@@ -194,7 +194,7 @@ fallacies for things that are inanimate (like Roulette wheels).
 ## Conjunction Rule
 
 We discussed the imaginary case study of Linda. It's quite famous, but rather
-antiquated these days. In the lecture, I updated it a Little, but here's the
+antiquated these days. In the lecture, I updated it a little, but here's the
 original version:
 
 "Linda is 31 years old, single, outspoken, and very bright. She majored in
@@ -203,12 +203,7 @@ discrimination and social justice, and also participated in anti-nuclear
 demonstrations"
 
 You then considered which of these two statements was more likely to be true:
-(a) "Linda is a bank teller", (b) "Linda is a feminist bank teller". A _teller_
-is an American English phrase for the person who works behind the counter in a
-bank taking in cheques and giving out cash (I can't remember the last time I
-went into a bank, but apparently such people still exist ... I told you it was
-an old example...)
-
+(a) "Linda is a shop assistant", (b) "Linda is a feminist shop assistant". 
 Most people say Option B is more likely. This cannot be true, because the
 probability of two events both happening can NEVER be higher than the
 probability of just one happening. This is known as the conjunction rule. The
@@ -220,16 +215,16 @@ it coming up 'heads' is 0.5. So, the probability of getting two heads from two
 throws is 0.5 x 0.5 = 0.25.
 
 Applying this to the Linda case study, let's say it's quite unlikely Linda is a
-bank teller (e.g. P = .05). Let's also say it's quite likely that she is a
+shop assistant (e.g. P = .05). Let's also say it's quite likely that she is a
 feminist (e.g. P = .95). By the conjunction rule, the probability Linda is a
-feminist bank teller is .95 x .05 = .0475. This is lower than .05 (the
-probability that she is a bank teller).
+feminist shop assistant is .95 x .05 = .0475. This is lower than .05 (the
+probability that she is a shop assistant).
 
 ### Shared birthdays
 
 Another example of errors concerning probability judgements is the _shared
 birthdays_ problem. The question is: "In a class of 30 children, what's the
-probability that there is a shared birthday in the class?". You can assume
+probability that there is a shared birthday in the class?" You can assume
 birthdays are independent events, and that every date of birth is equally
 likely.
 
@@ -256,7 +251,7 @@ The only way there can be no shared birthdays in the class is if no
 pair of children share a birthday. We already saw (above) that there
 are 435 pairs of children in a class of 30. So, under the _conjunction
 rule_ the probability of **none** of them sharing a birthday is
-.997^{435} = .17. So, the probability of at least one shared
+$.997^{435}$ = .17. So, the probability of at least one shared
 birthday is 1 - .17 = .83. So, it's much more likely there is a shared
 birthday than there isn't.
 
@@ -272,7 +267,7 @@ Meadows argued:
     chances are even lower; 1 in 8500, p = .0001.
 
 3.   Through the _conjunction rule_, the probability of two cot
-     deaths in the same family is .0001 x .0001 = 1 x 10^{-8}
+     deaths in the same family is .0001 x .0001 = $1 x 10^{-8}$
      = 1 in 73 million, or less than once a century in the UK.
 	 
 4.   Therefore, the idea that these deaths were by natural causes can
