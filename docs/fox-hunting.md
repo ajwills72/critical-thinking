@@ -1,6 +1,6 @@
 ### Fox hunting example
 
-The students discussed a claim about fox hunting: "It is wrong to cause unnecessary
+You discussed a claim about fox hunting: "It is wrong to cause unnecessary
 suffering to an animal. Fox hunting causes unnecessary suffering to the fox. It
 is therefore wrong to hunt foxes.". Here's one analysis of that argument:
 
