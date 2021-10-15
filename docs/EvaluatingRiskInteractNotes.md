@@ -16,7 +16,7 @@ prison. Central to her conviction was the evidence of expert witness Prof. Roy
 Meadows. He argued that the probability of two cot deaths in the same family
 was 1 in 73 million; less than once a century in the UK.
 
-Sally was released on appeal, partly because Prof. Meadows's _risk evaluation__
+Sally was released on appeal, partly because Prof. Meadows's _risk evaluation_
 was demonstrably wrong.
 
 We'll return to Sally Clark's case right at the end of the lecture, at which
