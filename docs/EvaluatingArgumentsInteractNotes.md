@@ -126,6 +126,10 @@ of a leap from an approximately 1 in 500 chance of not developing
 symptoms for more than 12 years to "a significant number of people
 who test positive never developing AIDS".
 
+### Fox hunting example
+
+A further example of argument evaluation was set as homework, one possible
+answer can be read [here](fox-hunting.html).
 
 ### Enthymemes (not in lecture)
 
