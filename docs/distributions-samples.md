@@ -10,7 +10,7 @@ teaches/revises basic histogram plotting and the idea of a distribution.
 ### What do they do?
 
 After a brief all-class introduction, students work in their table groups (of
-approximately six). Each group has four dice, six farm animal models, a start
+approximately eight). Each group has four dice, eight farm animal models, a start
 and end marker placed 45cm apart, and a 30cm rule. Each student also goes to
 [menti.com](https://www.menti.com) and enters the code provided.
 
@@ -22,13 +22,13 @@ student has more than one go, they need only enter their first score.
 
 Average throw is 4 * 3.5 = 14, so the average animal will finish in 4-5
 throws. However, we only need one animal to pass the line, and there will be
-about six animals per group, so the average group will take probably more like
+about eight animals per group, so the average group will take probably more like
 3-4 rounds (if anyone would like to sit down and work out the probability
 distrbution, let me know).
 
 The limiting factor on sample size is likely to be the polling software. For
 example, Mentimeter only allows any one person to respond once, so your sample
-size will be as large as the number of people playing. We have around 80 in
+size will be as large as the number of people playing. We have around 120 in
 class, which is enough to show a normal-like distribution. We'll use this data
 in the mini-tutorial below.
 

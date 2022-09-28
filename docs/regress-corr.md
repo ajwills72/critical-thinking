@@ -69,6 +69,8 @@ shovehapenny.csv
 
 Interactive demonstration of illusory correlation
 
+**Note**: These materials are a placeholder; the exercise is being somewhat updated for 2022. Any queries, ask Lenard Dome.
+
 ### What do they do?
 
 Students work individually. Each student views a series of positive and
