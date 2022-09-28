@@ -1,4 +1,4 @@
-# TARA / PTT support for PSYC411 workshops in Week 3
+# TA support for PSYC411 workshops in Week 3
 
 ## Where, when, what?
 
