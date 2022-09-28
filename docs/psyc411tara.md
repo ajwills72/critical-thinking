@@ -11,7 +11,7 @@ to use RStudio.
 
 ## Preparation
 
-It seems unlikely we would find a time where all 10 of us are free at the same
+It seems unlikely we would find a time where all of us are free at the same
 time for a pre-meeting. So, instead, please spend your prep time looking
 through the materials for the workshops you will be supporting, links provided
 below. If you have questions, make an [office hour appointment](https://calendly.com/andy-wills/15-min-office-hour-appointment) to discuss them with me. If you are
