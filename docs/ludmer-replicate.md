@@ -32,6 +32,11 @@ On these articles, 18 were not in English, 10 were not published scientific arti
 
 - van de Cruys et al. (2021, Cognition)
 
+- Wu et al. (2019, NeuroImage)
+
+- Yi et al. (2021, Psychophysiology) 
+
+
 ## Not a replication
 
 Just because a study shows amygdala activation, or studies the aha! phenomenon, that doessn't necessarily mean it's a replication of Ludmer et al. (2011); it also needs to observe the substantially same result as Ludmer, i.e. that the activation of the amygdala correlates with later memory of the stimulus in an aha! procedure. 
