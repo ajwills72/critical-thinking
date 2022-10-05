@@ -2,11 +2,11 @@
 
 ![word cloud](ludmer.png)
 
-As of 4th October 2022, this paper had 13 citations on Google Scholar.
+As of 5th October 2022, this paper had 143 citations on Google Scholar.
 
-On these articles, at least 18 were not in English, at least 10 were not published scientific articles, at least 3 were with a species other than humans, and at least one was a duplicate entry. In addition, at least 13 were reviews or theory articles rather than original data. This still leaves a lot of articles...
+On these articles, at least 18 were not in English ([example](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2021.00837)), at least 10 were not published scientific articles, at least 3 were with a species other than humans, and at least one was a duplicate entry. In addition, at least 13 were reviews ([example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574774/)) or theory articles rather than original data. This still leaves a lot of articles.
 
-## Not on the neuroscience of the aha! effect
+## Not on fMRI of the aha! effect
 
 At least 53 of the remaining articles did not report fMRI data so could not be a replication, and at least 3 had fMRI data but were not on the aha! effect, so we're down to a smaller number of articles. Below are some examples of articles that cite Ludmer et al. (2011), but aren't fMRI studies of the aha! effect:
 
@@ -16,11 +16,15 @@ At least 53 of the remaining articles did not report fMRI data so could not be a
 
 - Chen et al. (2021, Acta Psychologica)
 
+- Cui et al. (2021, Psychological Research)
+
+- Danek et al. (2013, Psychological research)
+
 - Danek & Wiley (2020, Cognition)
 
 - Du et al. (2017, Journal of Creative Behaviour)
 
-- [Ishikawa & Mogi (2011, Cognitive Neurodynamics)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3179546/pdf/11571_2011_Article_9171.pdf)
+- Ishikawa & Mogi (2011, Cognitive Neurodynamics)
 
 - Ishikawa et al. (2019, Frontiers in Psychology) 
 
@@ -32,6 +36,8 @@ At least 53 of the remaining articles did not report fMRI data so could not be a
 
 - Luo et al. (2014, Human Brain Mapping)
 
+- Oh et al. (2020, NeuroImage)
+
 - Shen et al. (2013, Science China Life Sciences)
 
 - Shen et al. (2016, British Journal of Psychology)
@@ -40,8 +46,9 @@ At least 53 of the remaining articles did not report fMRI data so could not be a
 
 - Wu et al. (2019, NeuroImage)
 
-- Yi et al. (2021, Psychophysiology) 
+- Xia et al. (2017, Neuroscience Letters)
 
+- Yi et al. (2021, Psychophysiology) 
 
 ## Not a replication attempt
 
@@ -55,11 +62,17 @@ Here are some examples of neuroscience studies citing Ludmer et al. (2011) that 
 
 - [Gonzalez-Garcia et al. (2018, eLife)](https://elifesciences.org/articles/36068.pdf) - Uses Mooney images, but isn't investigating the same hypotheses as Ludmer et al (correlation of amygdala activation to memory)
 
+- [Gonzalez-Garcia & He (2021, Journal of Neuroscience)](https://www.jneurosci.org/content/jneuro/41/1/167.full.pdf) - Uses money images, but does not measure retention after a delay.
+
 - [Huang et al. (2015, NeuroImage)](http://39.105.135.139/media/files/30.pdf) - Does not assess relation between memory and amygdala activity.
 
 - [Haung et al. (2018, NeuroImage)](http://39.105.135.139/media/files/47.pdf) - Does not measure retention after a delay.
 
 - [Kozunov et al. (2020, NeuroImage)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7762843/pdf/main.pdf) - Does not report activity of amygdala, does not assess correlation of memory with brain activity. 
+
+- [Shen et al. (2018, Appl. Psychophysiol. Biofeedback)](http://39.105.135.139/media/files/49.pdf) - Does not report amygdala activity, does not assess memory.
+
+- [Yu et al. (2019, Cognitive Affective & Behavioral Neuroscience)](https://link.springer.com/article/10.3758/s13415-019-00702-6) - Did not test memory
 
 - [Yu et al. (2021, Psychophysiology)](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13886?casa_token=t6vvyc2TFtEAAAAA:ePccXYPejXnA5tfId1d1JjAfc_UGhUYni004LHtVYbPd1zFuLLNhT5xg35pT7TZv7BHCfXkj9P3ygJg) - Did not test memory after a delay.
 
@@ -75,6 +88,6 @@ There are a couple of studies that come pretty close to replicating Ludmer et al
 
 ## Conclusion
 
-Overall, 130 other articles cite Ludmer et al. (2011), but none of them are direct replications of that study. This supports previous analysis, which shows that published attempts to directly replicate a study are rare in psychology [Makel et al., 2014](https://www.researchgate.net/profile/Matthew-Makel/publication/258180081_Replications_in_Psychology_Research_How_Often_Do_They_Really_Occur/links/00b49534d1bb6e6fe5000000/Replications-in-Psychology-Research-How-Often-Do-They-Really-Occur.pdf).  A direct replication is where you do the same thing and get the same result. The closest the field seems to have come in this case are a couple of studies that show a conceptually similar effect with a different insight task and a different (much shorter) retention interval. There is also the issue that, in the more recent study, the evidence for the result is somewhat weak. 
+Overall, 143 other articles cite Ludmer et al. (2011), but none of them are direct replications of that study. This supports previous analysis, which shows that published attempts to directly replicate a study are rare in psychology [Makel et al., 2014](https://www.researchgate.net/profile/Matthew-Makel/publication/258180081_Replications_in_Psychology_Research_How_Often_Do_They_Really_Occur/links/00b49534d1bb6e6fe5000000/Replications-in-Psychology-Research-How-Often-Do-They-Really-Occur.pdf).  A direct replication is where you do the same thing and get the same result. The closest the field seems to have come in this case are a couple of studies that show a conceptually similar effect with a different insight task and a different (much shorter) retention interval. There is also the issue that, in the more recent study, the evidence for the result is somewhat weak. 
 
 So, the answer to the question is not straight forward, as is often the case! We can say that there is not _direct_ replication, hence the phrasing of the poll in class. We might, however, argue that there is at least one _conceptual_ replication i.e. a result that supports the same general conclusion, but over a shorter time period and with different materials. The latter is arguably a good thing, i.e. it's good that we can show this effect has some generality. The former is more troublesome - for example, in the context of study skills advice, a retention interval of 24 hours is rather short. 
