@@ -5,7 +5,7 @@ _Andy J. Wills_
 | time | activity | 
 | ---- | -------- | 
 | 0:00 | Session start | 
-| 0:05 | Teach start, fox hunting example | 
+| 0:05 | Teach start | 
 | 0:05 | Intro - topic of this lecture | 
 | 0:05 | Sally Clark | 
 | 0:06 | Roy Meadows | 
