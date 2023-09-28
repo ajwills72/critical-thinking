@@ -20,7 +20,7 @@ the better :-)
 
 ## Content
 
-For those of you who supported these workshops in 2018, 2019 or 2021, they're basically the same, with some minor tweaks. (If you only supported in 2020 - it's basically the same material, but the ordering is different and a few things are more physical).
+For those of you who supported these workshops in 2018, 2019, 2021 or 29022, they're basically the same, with some minor tweaks. (If you only supported in 2020 - it's basically the same material, but the ordering is different and a few things are more physical).
 
 For all of you, here's all the materials we'll use this year:
 
@@ -34,14 +34,14 @@ For all of you, here's all the materials we'll use this year:
 
 - [Exploring data](https://ajwills72.github.io/rminr/exploring-incomes.html)
 
-**Note**: RStudio server was updated over the summer. Students now log in using the same username and password as they use for everything else (e.g. their email, the DLE...). If their login fails, you have to refer them to the Psychology Tech Office, we cannot fix this "in class" this year, and there are no temporary logins etc. 
+**Note**: RStudio server was updated over the summer and is called 'posit workbench'. Otheriwse largely unchanged. Students log in using the same username and password as they use for everything else (e.g. their email, the DLE...). If their login fails, you have to refer them to the Psychology Tech Office, we cannot fix this "in class". 
 
 ### Workshop 2
 
 - Regression to the mean, and illusory correlation:
        [slides](regress-corr.pdf), 
        [shove ha'penny game](http://www.psy.plymouth.ac.uk/labplus/lp411ShoveHapenny/default.html), 
-       [group behaviour statements](irr-corr.html) (note: this app will be updated before the session, but this link will give you the basic idea) , 
+       [group behaviour statements](irr-corr.html), 
        [instructor notes](regress-corr.html)
 
 - [Group differences](https://ajwills72.github.io/rminr/group-differences.html)
