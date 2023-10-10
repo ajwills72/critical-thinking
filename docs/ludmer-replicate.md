@@ -58,6 +58,8 @@ Just because a study shows amygdala activation, or studies the aha! phenomenon, 
 
 Here are some examples of neuroscience studies citing Ludmer et al. (2011) that are not attempts to replicate Ludmer et al. (2011):
 
+- [Becker et al. (2019, NeuroImage)](https://onlinelibrary.wiley.com/doi/10.1002/hbm.24785) - Does not assess subsequent memory nor investigate amygdala activatons.
+
 - [Becker et al. (2021, Journal of Cognitive Psychology)](https://www.researchgate.net/profile/Maxi-Becker/publication/343497974_Verbal_insight_revisited_-_Dissociable_neurocognitive_processes_underlying_solutions_accompanied_by_an_AHA_experience_with_and_without_prior_restructuring/links/5f312b1592851cd302ebff87/Verbal-insight-revisited-Dissociable-neurocognitive-processes-underlying-solutions-accompanied-by-an-AHA-experience-with-and-without-prior-restructuring.pdf) - Does not assess memory, nor investigate association of amygdala activation to memory.
 
 - [Flounders et al. (2019, eLife)](https://elifesciences.org/articles/41861.pdf) - Uses Mooney images, but does not test memory for them after a delay. 
