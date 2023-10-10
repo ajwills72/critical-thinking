@@ -2,7 +2,7 @@
 
 ![word cloud](ludmer.png)
 
-As of 5th October 2022, this paper had 143 citations on Google Scholar.
+As of 10th October 2023, this paper had 156 citations on Google Scholar.
 
 On these articles, at least 18 were not in English ([example](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2021.00837)), at least 10 were not published scientific articles, at least 3 were with a species other than humans, and at least one was a duplicate entry. In addition, at least 13 were reviews ([example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574774/)) or theory articles rather than original data. This still leaves a lot of articles.
 
@@ -33,6 +33,8 @@ At least 53 of the remaining articles did not report fMRI data so could not be a
 - Korovkin et al. (2020, Journal of Cognitive Psychology)
 
 - Lin et al. (2018, Frontiers in human neuroscience)
+
+- Lu & Singer (2023, Cerebral Cortex)
 
 - Luo et al. (2014, Human Brain Mapping)
 
