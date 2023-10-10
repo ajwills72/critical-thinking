@@ -14,8 +14,6 @@ At least 53 of the remaining articles did not report fMRI data so could not be a
 
 - Chang et al. (2012, Perceptual and Motor Skills)
 
-- Chen et al. (2021, Acta Psychologica)
-
 - Cui et al. (2021, Psychological Research)
 
 - Danek et al. (2013, Psychological research)
@@ -64,7 +62,7 @@ Here are some examples of neuroscience studies citing Ludmer et al. (2011) that 
 
 - [Gonzalez-Garcia et al. (2018, eLife)](https://elifesciences.org/articles/36068.pdf) - Uses Mooney images, but isn't investigating the same hypotheses as Ludmer et al (correlation of amygdala activation to memory)
 
-- [Gonzalez-Garcia & He (2021, Journal of Neuroscience)](https://www.jneurosci.org/content/jneuro/41/1/167.full.pdf) - Uses money images, but does not measure retention after a delay.
+- [Gonzalez-Garcia & He (2021, Journal of Neuroscience)](https://www.jneurosci.org/content/jneuro/41/1/167.full.pdf) - Uses Mooney images, but does not measure retention after a delay.
 
 - [Huang et al. (2015, NeuroImage)](http://39.105.135.139/media/files/30.pdf) - Does not assess relation between memory and amygdala activity.
 
@@ -87,6 +85,9 @@ There are a couple of studies that come pretty close to replicating Ludmer et al
 - [Kizilrmak et al. (2016, Frontiers in Psychology)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01693/full) - Table 4 shows something much like the Ludmer et al. (2011) result. It's not a direct replication, though, because it uses a different insight task (remote associates task) and a different retention interval (24 hours instead of one week).
 
 - [Kizilirmak et al. (2019, Consciousness & Cognition)](https://reader.elsevier.com/reader/sd/pii/S105381001830566X?token=EF434E82863D4EEC007C609DB2C87EFB3B282F3718568C5B78B1C6CAE2465B4135C5FD80CA9ABD175525FD5232E683C1&originRegion=eu-west-1&originCreation=20211006091820) - For the current purposes, this is largely the same as Kizilirmak et al., (2016). There is some evidence for a similar effect to Kizilirmak et al. (2016), but the evidence is somewhat weaker this time (see p.121). 
+
+- [Chen et al. (2021, Acta Psychologica)](https://journal.psych.ac.cn/acps/EN/article/downloadArticleFile.do?attachType=PDF&id=4905) - A bit like Ludmer, but it's a different task (Chinese riddles), and a different delay (30 minutes). Also, although amygdala is mentioned, they seem to place more emphasis on the hippocampus.
+
 
 ## Conclusion
 
