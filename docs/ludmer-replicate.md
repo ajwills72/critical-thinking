@@ -4,7 +4,7 @@
 
 As of 10th October 2023, this paper had 156 citations on Google Scholar.
 
-On these articles, at least 18 were not in English ([example](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2021.00837)), at least 10 were not published scientific articles (beware preprint servers e.g. arxiv, bioarxiv), at least 3 were with a species other than humans, and at least one was a duplicate entry. In addition, at least 13 were reviews ([example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574774/)) or theory articles rather than original data. This still leaves a lot of articles.
+On these articles, at least 18 were not in English ([example](https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2021.00837)), at least 10 were not published scientific articles (beware preprint servers e.g. arxiv, bioarxiv, researchgate...), at least 3 were with a species other than humans, and at least one was a duplicate entry. In addition, at least 13 were reviews ([example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574774/)) or theory articles rather than original data. This still leaves a lot of articles.
 
 ## Not on fMRI of the aha! effect
 
